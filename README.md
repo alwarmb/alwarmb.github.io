@@ -3,6 +3,13 @@ Contains details about technology expertise, project details, architectural snip
 
 # Technology Expertise
 
+
+## [Solution Architecture](./technology-expertise/Solution-Architecture)
+
+- [arc42 - Software Architecture Methodology](./technology-expertise/Solution-Architecture#arc42---software-architecture-methodology)
+
+## [Software Development](./technology-expertise/Software-Development)
+
 ## [Azure Services](./technology-expertise/Azure-Services)
 
 - [AI + Machine learning](./technology-expertise/Azure-Services#ai--machine-learning)
@@ -16,8 +23,3 @@ Contains details about technology expertise, project details, architectural snip
 - [Networking](./technology-expertise/Azure-Services#networking)
 - [Security & Identity](./technology-expertise/Azure-Services#security--identity)
 - [Storage](./technology-expertise/Azure-Services#storage)
-
-## [Software Development](./technology-expertise/Software-Development)
-
-
-## [Solution Architecture](./technology-expertise/Solution-Architecture)
