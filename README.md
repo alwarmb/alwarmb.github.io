@@ -3,15 +3,21 @@ Contains details about technology expertise, project details, architectural snip
 
 # Technology Expertise
 
-- [Azure Services](./azure/Azure-Services.md)
-  - [AI + Machine learning](./azure/Azure-Services#ai--machine-learning)
-  - [Analytics](./azure/Azure-Services#analytics)
-  - [Compute](./azure/Azure-Services#compute)
-  - [Containers](./azure/Azure-Services#containers)
-  - [Databases](./azure/Azure-Services#databases)
-  - [DevOps & Developer tools](./azure/Azure-Services#devops--developer-tools)
-  - [Integration](./azure/Azure-Services#integration)
-  - [Internet of Things](./azure/Azure-Services#internet-of-things)
-  - [Networking](./azure/Azure-Services#networking)
-  - [Security & Identity](./azure/Azure-Services#security--identity)
-  - [Storage](./azure/Azure-Services#storage)
+## [Azure Services](./technology-expertise/Azure-Services)
+
+- [AI + Machine learning](./technology-expertise/Azure-Services#ai--machine-learning)
+- [Analytics](./technology-expertise/Azure-Services#analytics)
+- [Compute](./technology-expertise/Azure-Services#compute)
+- [Containers](./technology-expertise/Azure-Services#containers)
+- [Databases](./technology-expertise/Azure-Services#databases)
+- [DevOps & Developer tools](./technology-expertise/Azure-Services#devops--developer-tools)
+- [Integration](./technology-expertise/Azure-Services#integration)
+- [Internet of Things](./technology-expertise/Azure-Services#internet-of-things)
+- [Networking](./technology-expertise/Azure-Services#networking)
+- [Security & Identity](./technology-expertise/Azure-Services#security--identity)
+- [Storage](./technology-expertise/Azure-Services#storage)
+
+## [Software Development](./technology-expertise/Software-Development)
+
+
+## [Solution Architecture](./technology-expertise/Solution-Architecture)
