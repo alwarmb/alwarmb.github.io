@@ -168,7 +168,7 @@ Deploy components of an application into a separate process or container to prov
 
 This pattern is named Sidecar because it resembles a sidecar attached to a motorcycle. In the pattern, the sidecar is attached to a parent application and provides supporting features for the application. The sidecar also shares the same lifecycle as the parent application, being created and retired alongside the parent. The sidecar pattern is sometimes referred to as the sidekick pattern and is a decomposition pattern.
 
-![sidecar-pattern](./images/arc-snippets/sidecar-pattern.png)
+![sidecar-pattern](./images/arc-snippets/sidecar-pattern.drawio.png)
 
 # Solution Architecture Snippets
 
@@ -200,7 +200,7 @@ An event-driven architecture consists of event producers that generate a stream 
 
 This reference architecture shows a serverless, event-driven architecture that ingests a stream of data, processes the data, and writes the results to a back-end database.
 
-![serverless-event-processing](./images/arc-snippets/serverless-event-processing.png)
+![serverless-event-processing](./images/arc-snippets/serverless-event-processing.drawio.png)
 
 ## Azure Kubernetes Service (AKS) microservices architecture
 
