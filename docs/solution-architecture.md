@@ -41,7 +41,7 @@ This reference architecture shows a serverless, event-driven architecture that i
 ![blue-green-aks-deployment-diagram-public-architecture](./_images/arc-snippets/blue-green-aks-deployment-diagram-public-architecture.png)
 
 # References
-- https://www.arc42.org
+
 - https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/iot
 - https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/iot-azure-data-explorer
 - https://learn.microsoft.com/en-us/azure/architecture/guide/iot-edge-vision/machine-learning

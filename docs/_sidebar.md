@@ -1,12 +1,7 @@
 <!-- docs/_sidebar.md -->
 
-<!-- 
-
-- Profile
-  - [Home](/)
-  - [Profile](profile.md)
-
- -->
+- **PROFILE**
+  - [Alwar Mandyam](alwar-mandyam.md)
 
 - **TECHNOLOGY EXPERTISE**
   - [Solution Architecture](solution-architecture.md)

@@ -1,3 +1,0 @@
-# Profile
-
-> An awesome profile.
