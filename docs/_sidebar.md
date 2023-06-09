@@ -10,6 +10,7 @@
 
 - **TECHNOLOGY EXPERTISE**
   - [Solution Architecture](solution-architecture.md)
+    - [arc42 - Software Architecture Methodology](arc42-methodology.md)
   - [Software Architecture](software-architecture.md)
   - [Azure Services](azure-services.md)
   <!-- - [Software Development](software-development.md) -->
