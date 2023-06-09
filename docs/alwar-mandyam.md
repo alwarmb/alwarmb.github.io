@@ -1,36 +1,99 @@
-# ALWAR MANDYAM
+# Profile
 
+![alwar-mandyam](./_images/profile/alwar-02.jpg)
+
+<h1>ALWAR MANDYAM</h1>
 <h2>Senior Solution Architect</h2>
+
+I am a Senior Solution Architect at Bosch, working on IoT Business Services for our customers.
+<br>
+I am actively working on several projects which enables Bosch to become market leader and an AIoT (Artificial Intelligence of Things) company.
+<br>
+I code, write, speak, empower, promote, learn, and listen.
+
+# PERSONAL DETAILS
+
+|||
+|--|--|
+|<img src="./_images/icons/home-locator-blue.svg" width="60">|Munich, Germany|
+|<img src="./_images/icons/call-blue.svg" width="60">|+49 152 21866859|
+|<img src="./_images/icons/website-blue.svg" width="60">|[profile.alwarmandyam.net](https://profile.alwarmandyam.net/)|
+|<img src="./_images/icons/gmail-48.svg" width="60">|[alwarmb@gmail.com](mailto:alwarmb@gmail.com)|
+|<img src="./_images/icons/linkedin-48.svg" width="60">|https://www.linkedin.com/in/alwarmb/|
+
+## Languages
+
+|Language|Proficiency|
+|--|--|
+|English|_Fluent_|
+|Kannada|_Fluent_|
+|Tamil|_Fluent_|
+|Hindi|_Conversational_|
+|German|_Conversational (B1 Certified)_|
+
 
 # EDUCATION
 
 ## Bachelor of Engineering
 
-### Jawaharlal Nehru National College of Engineering see link
-Visvesvaraya Technological University see link
+### Jawaharlal Nehru National College of Engineering
 
-Bachelor of Engineering – Electronics & Communication see link
-08.2002 – 07.2006
+http://jnnce.ac.in/
+
+**Visvesvaraya Technological University**
+<br>
+https://vtu.ac.in/en/
+
+Bachelor of Engineering – Electronics & Communication
+<br>
+http://jnnce.ac.in/jnndemo/deptece.html
+
+>From `08.2002` to `07.2006`
 
 Achieved First Class with Distinction in each of the eight semesters of the bachelor’s degree.  Successfully completed project work on latest technology vis-a-vis Identification using Biometrics
 
 # WORK EXPERIENCE
 
 ## Bosch Building Technologies
-Senior Solution Architect	Munich, Germany	07.2015 – Present
 
-## Bosch Security Systems
-Senior Software Engineer	Singapore	08.2010 – 06.2015
+>**Senior Solution Architect**
+<br>
+Munich, Germany
+<br>
+From `07.2015` to `Present`
+
 Bosch BT is an experienced system integrator helping buildings to be more secure, more efficient, and more comfortable.
 Bosch BT mainly serves the domains such as video surveillance, intrusion detection, access control, fire detection, conferencing systems, and building automation systems.
 
+## Bosch Security Systems
+
+>**Senior Software Engineer**
+<br>
+Singapore
+<br>
+From `08.2010` to `06.2015`
+
+Bosch BT is an experienced system integrator helping buildings to be more secure, more efficient, and more comfortable.
+
+Bosch BT mainly serves the domains such as video surveillance, intrusion detection, access control, fire detection, conferencing systems, and building automation systems.
+
 ## Tyco Fire and Security Pvt. Ltd.
-Software Engineer	Bangalore, India	11.2008 – 07.2010
+
+>*Software Engineer**
+<br>
+Bangalore, India
+<br>
+From `11.2008` to `07.2010`
 
 Tyco is a leading provider of security products and services, fire protection and detection products and services, valves and controls, and other industrial products.
 
 ## Keane Inc.
-Software Engineer	Bangalore, India	08.2006 – 10.2008
+
+>**Software Engineer**
+<br>
+Bangalore, India
+<br>
+From `08.2006` to `10.2008`
 
 Keane is a U.S. software services company delivering strategy, application management and development through delivery centers in India
 
@@ -51,11 +114,15 @@ Active member of the BTARCET which sets the architectural constraints, rules, co
 -	Defining standards and benchmark KPIs (Example. BT 4.0 readiness index: bronze, silver, gold).
 -	Checkpoints / controlling / governance community sessions.
 
-## Senior Solution Architect for NEXOSPACE Digital Services see link
+## Senior Solution Architect for NEXOSPACE Digital Services
+
+https://www.boschbuildingsolutions.com/xc/en/digital-services/
 
 NEXOSPACE, orchestrates the optimal interaction of the building's technical equipment in real time. Data from the various building service systems are brought together and analysed. In combination with a digital twin, this creates a completely new, holistic view of the building.
 
-## Consultant for Digital Real Estate see link
+## Consultant for Digital Real Estate
+
+https://www.boschbuildingsolutions.com/xc/en/news-and-stories/smart-buildings/
 
 Smart Buildings help save energy by networking intelligent building technologies, increasing the comfort and convenience of users, and ensuring consistently reliable operation. As a consultant of the service, I am working at creating an end-to-end experience for facility owners & operators using the architectural building blocks created by the NEXOSPACE services.
 
@@ -67,11 +134,15 @@ As alliance partner between Bosch BT and Bosch CR, my responsibilities include:
 -	Conducting project status reviews and providing meaningful feedback.
 -	Incorporating results of the project into active service products.
 
-## Co-host of DevOps Service Hub (DOSH) Conference see link
+## Co-host of DevOps Service Hub (DOSH) Conference
+
+https://www.linkedin.com/search/results/all/?keywords=%23doshconf
 
 The DOSH conference aims to bring together developers and software architects, to work on common topics and to shape the future of Bosch Building Technologies together. The conference is held during the summer every year and presentations are given by Bosch colleagues as well as external partners such as Microsoft, Apple, Auto-Desk, Rexroth etc.
 
-## Hack Coach at Bosch Connected Experience (BCX) see link
+## Hack Coach at Bosch Connected Experience (BCX)
+
+https://bosch-connected-world.com/hackathon/
 
 As a hack coach at BCX, I consult the participating teams in several aspects such as: ideation, technology selection, prototype implementation, story-telling preparation, initial review.
 
@@ -79,24 +150,27 @@ As a hack coach at BCX, I consult the participating teams in several aspects suc
 
 ## Industry Alliance Partnerships
 
-I am actively engaged in partnerships with several partners such as Microsoft, Amazon, Apple, Auto-Desk, Conplement, Rexroth, Archilogic, Distech Controls, Kontakt.io, Thing-IT, Wirepas, Yanzi, and several others.
+I am actively engaged in partnerships with several partners such as [Microsoft](https://azure.microsoft.com/), [Amazon](https://aws.amazon.com/), [Apple](https://www.apple.com/wallet/), [Auto-Desk](https://aps.autodesk.com/), [Conplement](https://www.conplement.de/), [Rexroth](https://apps.boschrexroth.com/microsites/ctrlx-automation/en/), [Archilogic](https://www.archilogic.com/), [Distech Controls](https://www.distech-controls.com/), [Kontakt.io](https://kontakt.io/), [Thing-IT](https://www.thing-it.com/), [Wirepas](https://www.wirepas.com/products/how-it-works), [Yanzi](https://www.yanzi.se/), and several others.
+
 I am responsible for evaluating the various products and services offered by the partners, then work on low-fidelity and high-fidelity prototypes to evaluate the technology. Finally, induct the selected technology into our product services.
 
 ## Patents
 
-I hold the patent “Anomaly detection based on cross-domain data, learning algorithms and Digital Twin”. This technology is being used in several of our IoT Business Services in NEXOSPACE.
-I have also filed for two more patents which are currently being processed.
+I hold the patent **“Anomaly detection based on cross-domain data, learning algorithms and Digital Twin”**. This technology is being used in several of our IoT Business Services in NEXOSPACE.
 
-## Bosch Building Technologies Ontology Central see link
+I have also filed for **two more patents** which are currently being processed.
+
+## Bosch Building Technologies Ontology Central
+
+https://www.boschbuildingsolutions.com/xc/en/news-and-stories/building-ontologies/
 
 I am the author of the Bosch Building Technologies Ontology Central which contains ontology models relevant for commercial buildings. Currently Foundation Ontology, Fire Alarm Systems Ontology and HVAC Systems Ontology have been open sourced. Ontologies related to other BT domains are being worked on and will be open sourced soon.
 
 ## Cloud Based Certificate Management for Devices
 
-.
+
 # TECHNOLOGY EXPERTISE
 
-For detailed information about technology expertise, please see link.
 - [Solution Architecture](solution-architecture.md)
   - [arc42 - Software Architecture Methodology](arc42-methodology.md)
 - [Software Architecture](software-architecture.md)
