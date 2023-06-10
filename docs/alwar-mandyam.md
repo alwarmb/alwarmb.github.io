@@ -13,13 +13,28 @@ I code, write, speak, empower, promote, learn, and listen.
 
 # PERSONAL DETAILS
 
-|||
-|--|--|
-|<img src="./_images/icons/home-locator-blue.svg" width="60">|Munich, Germany|
-|<img src="./_images/icons/call-blue.svg" width="60">|+49 152 21866859|
-|<img src="./_images/icons/website-blue.svg" width="60">|[profile.alwarmandyam.net](https://profile.alwarmandyam.net/)|
-|<img src="./_images/icons/gmail-48.svg" width="60">|[alwarmb@gmail.com](mailto:alwarmb@gmail.com)|
-|<img src="./_images/icons/linkedin-48.svg" width="60">|https://www.linkedin.com/in/alwarmb/|
+<table style="width: 100%">
+  <tr>
+    <td><img src="./_images/icons/home-locator-blue.svg" width="60"></td>
+    <td>Munich, Germany</td>
+  </tr>
+  <tr>
+    <td><img src="./_images/icons/call-blue.svg" width="60"></td>
+    <td>+49 152 21866859</td>
+  </tr>
+  <tr>
+    <td><img src="./_images/icons/website-blue.svg" width="60"></td>
+    <td><a href="https://profile.alwarmandyam.net/">https://profile.alwarmandyam.net</a></td>
+  </tr>
+  <tr>
+    <td><img src="./_images/icons/gmail-48.svg" width="60"></td>
+    <td><a href="mailto:alwarmb@gmail.com">alwarmb@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><img src="./_images/icons/linkedin-48.svg" width="60"></td>
+    <td><a href="https://www.linkedin.com/in/alwarmb/">https://www.linkedin.com/in/alwarmb/</a></td>
+  </tr>
+</table>
 
 ## Languages
 
@@ -50,7 +65,7 @@ http://jnnce.ac.in/jnndemo/deptece.html
 
 >From `08.2002` to `07.2006`
 
-Achieved First Class with Distinction in each of the eight semesters of the bachelor’s degree.  Successfully completed project work on latest technology vis-a-vis Identification using Biometrics
+Achieved **First Class with Distinction** in each of the eight semesters of the bachelor’s degree.  Successfully completed project work on latest technology vis-a-vis **Identification using Biometrics**
 
 # WORK EXPERIENCE
 
@@ -79,7 +94,7 @@ Bosch BT mainly serves the domains such as video surveillance, intrusion detecti
 
 ## Tyco Fire and Security Pvt. Ltd.
 
->*Software Engineer**
+>**Software Engineer**
 <br>
 Bangalore, India
 <br>

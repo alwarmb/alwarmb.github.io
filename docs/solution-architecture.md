@@ -27,7 +27,7 @@ An event-driven architecture consists of event producers that generate a stream 
 ![event-driven-architecture](./_images/arc-snippets/event-driven-architecture.drawio.png)
 
 ## Serverless event processing
-++
+
 This reference architecture shows a serverless, event-driven architecture that ingests a stream of data, processes the data, and writes the results to a back-end database.
 
 ![serverless-event-processing](./_images/arc-snippets/serverless-event-processing.drawio.png)

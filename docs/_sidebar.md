@@ -10,6 +10,11 @@
   - [Azure Services](azure-services.md)
   <!-- - [Software Development](software-development.md) -->
 
+- **PROJECTS**
+  <!-- - [@ Bosch Building Technologies](projects-at-bosch.md) -->
+  - [@ Tyco Fire & Security](projects-at-tyco.md)
+  - [@ Keane](projects-at-keane.md)
+
 - **CONTACT DETAILS**
   - <img src="./_images/icons/home-locator-blue.svg" width="20"> Munich, Germany
   - <img src="./_images/icons/call-blue.svg" width="20"> +49 152 21866859
