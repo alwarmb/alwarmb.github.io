@@ -11,7 +11,7 @@
   <!-- - [Software Development](software-development.md) -->
 
 - **PROJECTS**
-  <!-- - [@ Bosch Building Technologies](projects-at-bosch.md) -->
+  - [@ Bosch Building Technologies](projects-at-bosch.md)
   - [@ Tyco Fire & Security](projects-at-tyco.md)
   - [@ Keane](projects-at-keane.md)
 

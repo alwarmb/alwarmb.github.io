@@ -16,8 +16,8 @@ During my employment at Keane Inc. between `08.2006` and `10.2008`, I worked on 
     <td>Bangalore, India</td>
   </tr>
   <tr>
-    <td><b>Role</b></td>
-    <td>Team Leader / Software Developer</td>
+    <td><b>Roles</b></td>
+    <td>Team Leader, Software Developer</td>
   </tr>
   <tr>
     <td><b>Technologies</b></td>
