@@ -1,22 +1,16 @@
 # Solution Architecture
 
+Solution architecture is a practice to provide ground for software development projects by tailoring IT solutions to specific business needs and defining their functional requirements and stages of implementation. Solution architecture is the means to execute or realise a technology strategy.
+
+In this section you will find solution architecture diagrams and technology descriptions for reference architectures, real world examples of cloud architectures, and solution ideas for common workloads.
+
 # Solution Architecture Snippets
 
 ## IoT Reference Architecture
 
 ![azure-iot-reference-architecture](./_images/arc-snippets/azure-iot-reference-architecture.png)
 
-## IoT analytics with Azure Data Explorer
-
-![iot-azure-data-explorer-new](./_images/arc-snippets/iot-azure-data-explorer-new.png)
-
-## Machine learning in Azure IoT Edge vision AI
-
-![data-science-cycle](./_images/arc-snippets/data-science-cycle.drawio.png)
-
-![vision-edge-flow](./_images/arc-snippets/vision-edge-flow.png)
-
-## IoT application-to-device commands
+## IoT Application-to-Device Commands
 
 ![cloud-to-device-message](./_images/arc-snippets/cloud-to-device-message.drawio.png)
 
@@ -26,17 +20,27 @@ An event-driven architecture consists of event producers that generate a stream 
 
 ![event-driven-architecture](./_images/arc-snippets/event-driven-architecture.drawio.png)
 
-## Serverless event processing
+## Serverless Event Processing
 
 This reference architecture shows a serverless, event-driven architecture that ingests a stream of data, processes the data, and writes the results to a back-end database.
 
 ![serverless-event-processing](./_images/arc-snippets/serverless-event-processing.drawio.png)
 
-## Azure Kubernetes Service (AKS) microservices architecture
+## IoT analytics with Azure Data Explorer
+
+![iot-azure-data-explorer-new](./_images/arc-snippets/iot-azure-data-explorer-new.png)
+
+## Machine Learning in Azure IoT Edge Vision AI
+
+![data-science-cycle](./_images/arc-snippets/data-science-cycle.drawio.png)
+
+![vision-edge-flow](./_images/arc-snippets/vision-edge-flow.png)
+
+## Azure Kubernetes Service (AKS) Microservices Architecture
 
 ![aks-production-deployment](./_images/arc-snippets/aks-production-deployment.png)
 
-## Blue-green deployment of AKS clusters
+## Blue-Green Deployment of AKS Clusters
 
 ![blue-green-aks-deployment-diagram-public-architecture](./_images/arc-snippets/blue-green-aks-deployment-diagram-public-architecture.png)
 

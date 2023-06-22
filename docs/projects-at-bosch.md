@@ -2,7 +2,9 @@
 
 # Nexospace Foundation Services
 
-# Fire System Analyzer
+# Fire System Analyzer (FSA)
+
+FSA is a service for customers who have Bosch Fire Alarm Systems. FSA combines several use cases which are related to safety systems and is rooted in the BT Nexospace Program. FSA is an important element in the fire and safety system portfolio and is integrating digital and remote services. 
 
 # Building Performance Analyzer and Optimizer
 

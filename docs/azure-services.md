@@ -1,6 +1,6 @@
 # Azure Services
 
-Below you will find the list of **Azure Services** which I have worked with, along with the **Competency Level** for each of the service.
+The Azure cloud platform has more than 200 products and cloud services designed to help you bring new solutions to life. The list of azure services along with the. Following is a comprehensive list of all **Azure Services** which I have worked with, along with the **Competency Level** for each of the service.
 
 # AI + Machine learning
 
