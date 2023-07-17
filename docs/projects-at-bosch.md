@@ -15,7 +15,34 @@ From `08.2010` to `06.2015`
 Bosch Building Technologies is an experienced system integrator helping buildings to be more secure, more efficient, and more comfortable.
 Bosch BT mainly serves the domains such as video surveillance, intrusion detection, access control, fire detection, conferencing systems, and building automation systems.
 
-# Nexospace Foundation Services
+## Comprehensive Portfolio
+
+- Fire alarm systems, public address, and voice alarm solutions in accordance with required DIN standards and guidelines.
+- Solutions for intrusion alarm, video, time and access control, and digital personnel management
+- Complex tailor-made solutions for building security, building automation, and energy services
+- Optimum maintenance of security systems by an experienced service team
+
+# Nexospace Foundations Services
+
+<table style="width: 100%">
+  <tr>
+    <td><b>Location</b></td>
+    <td>Munich, Germany</td>
+  </tr>
+  <tr>
+    <td><b>Role</b></td>
+    <td>Senior Solution Architect</td>
+  </tr>
+</table>
+
+## My Responsibilities
+
+-	Definition of the end-to-end target architectures.
+-	Nexospace reference architecture definition.
+-	Technology selections and proof of concept definitions, design, and realization.
+-	Checkpoints / controlling / governance community sessions.
+
+## Project Details
 
 ![nexospace-solution-architecture](./_images/projects/bosch/nexospace-solution-architecture.jpg)
 
@@ -35,34 +62,95 @@ Foundation Services include the following Software-as-a-Service (SaaS) capabilit
 
 # Fire System Analyzer (FSA)
 
+<table style="width: 100%">
+  <tr>
+    <td><b>Location</b></td>
+    <td>Munich, Germany</td>
+  </tr>
+  <tr>
+    <td><b>Role</b></td>
+    <td>Senior Solution Architect</td>
+  </tr>
+</table>
+
+## My Responsibilities
+
+-	Definition of the end-to-end target architectures.
+-	Service architectures definition based on the reference architecture.
+-	Technology selections and proof of concept definitions, design, and realization.
+-	Industry alliance partnership ignitions and management.
+-	Checkpoints / controlling / governance community sessions.
+
+## Project Details
+
 FSA is a service for customers who have Bosch Fire Alarm Systems. FSA is an important element in the fire and safety system portfolio and is integrating digital and remote services. FSA combines several use cases which are related to safety systems and is rooted in the BT Nexospace Program.
 
-## Use Cases
+### Use Cases
 
-- Health Monitoring
-- Advanced Budget Prediction
-- Detector Exchange Plan
-- Digital Logbook
+- Health Status (Betriebsstatus)
+- Detector Exchange Plan (Zu tauschende Elemente)
+- Digital Logbook (Betriebsbuch)
+
+![fsa-cockpit](./_images/projects/bosch/fsa-cockpit.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ik-7GkfRzp0" title="Introduction of the new services: NEXOSPACE Cyber Security Guard and NEXOSPACE Fire System Analyzer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Building Performance Analyzer and Optimizer
+# Remote Services - Next Gen
+<table style="width: 100%">
+  <tr>
+    <td><b>Location</b></td>
+    <td>Munich, Germany</td>
+  </tr>
+  <tr>
+    <td><b>Role</b></td>
+    <td>Senior Solution Architect</td>
+  </tr>
+</table>
 
-# Bosch Energy Services
+## My Responsibilities
+
+-	Definition of the end-to-end target architectures.
+-	Service architectures definition based on the reference architecture.
+-	Technology selections and proof of concept definitions, design, and realization.
+-	Industry alliance partnership ignitions and management.
+-	Checkpoints / controlling / governance community sessions.
+
+## Project Details
+
+The Remote Services project involves the modernisation of our existing remote services infrastructure EffiLink. The new technical basis is the Microsoft Azure platform (Cloud).
+
+- **Remote Services**: Network customer's building infrastructe with the cloud-based Remote Services platform via a secure connections. This allows us to analyze and configure your security systems and troubleshoot problems remotely.
+- **Condition Monitoring**: Support maintenance remotely, detect faults early and before they occur and initiate measures automatically.
+- **Inspection**: Safe, digital documentation maintenance which are audit-proof and of high-quality - enabling  automatically recorded in inspection plans.
+
+#### Advantages of using Remote Services - Next Gen
+
+- **Compatible with all Bosch security systems:** You can use the remote services and benefits for all of your Bosch security technology.
+- **Smooth installation:** Remote Services enable your security systems to be installed quickly and effectively. Our on-site specialists and technicians work hand in hand.
+- **Reliable data protection:** The processing of data meets the highest data protection standards.
+- **Permanent backup:** Once access to the platform has been set up, the current configuration is continuously backed up and can always be used in the event of faults and failures.
+- **Continuous updates:** We always keep our platform up to date. We take care of software updates for new program versions for you.
+- **Effective remote access:** Our remote service experts quickly and reliably assess the status of your security systems on screen and actively intervene if necessary - but without disrupting regular on-site operations.
+- **Fix faults faster:** If a fault cannot be fixed remotely, a detailed remote diagnosis is carried out in order to optimally prepare the technician for the on-site work. The benefit for you: shorter downtimes and thus increased availability of your systems.
+
+# Other Services Based on Nexospace Foundations
+
+## Bosch Energy Services
 
 https://www.boschbuildingsolutions.com/xc/en/energy-services/
 
-# Remote Services - Next Gen
-
-# Facility Management Assistant
+## Facility Management Assistant
 
 https://www.boschservicesolutions.com/en/your-industry/buildings/
+
+<!--
+# Building Performance Analyzer and Optimizer
 
 # Future of Conferencing Systems
 
 # Indoor Localization using Sensor Fusion
 
-# Gas Cylinder Detection using Cognitive Services
+# Gas Cylinder Detection using Cognitive Services -->
 
 # Bosch Video Management System
 
