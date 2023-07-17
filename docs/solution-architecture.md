@@ -8,7 +8,7 @@ In this section you will find solution architecture diagrams and technology desc
 
 ## IoT Reference Architecture
 
-![azure-iot-reference-architecture](./_images/arc-snippets/azure-iot-reference-architecture.png)
+![azure-iot-reference-architecture](./_images/arc-snippets/azure-iot-reference-architecture.drawio.png)
 
 ## IoT Application-to-Device Commands
 
@@ -28,7 +28,7 @@ This reference architecture shows a serverless, event-driven architecture that i
 
 ## IoT analytics with Azure Data Explorer
 
-![iot-azure-data-explorer-new](./_images/arc-snippets/iot-azure-data-explorer-new.png)
+![iot-azure-data-explorer-new](./_images/arc-snippets/iot-azure-data-explorer-new.drawio.png)
 
 ## Machine Learning in Azure IoT Edge Vision AI
 
@@ -42,7 +42,7 @@ This reference architecture shows a serverless, event-driven architecture that i
 
 ## Blue-Green Deployment of AKS Clusters
 
-![blue-green-aks-deployment-diagram-public-architecture](./_images/arc-snippets/blue-green-aks-deployment-diagram-public-architecture.png)
+![blue-green-aks-deployment-diagram-public-architecture](./_images/arc-snippets/blue-green-aks-deployment-diagram-public-architecture.drawio.png)
 
 # References
 
