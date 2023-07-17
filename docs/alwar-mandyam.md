@@ -139,11 +139,10 @@ NEXOSPACE, orchestrates the optimal interaction of the building's technical equi
 
 ![nexospace-solution-architecture](./_images/projects/bosch/nexospace-solution-architecture.jpg)
 
-[Youtube - Light + Building 2022: NEXOSPACE Launch Event - Digitale Services für das Gebäudemanagement](https://www.youtube.com/watch?v=Vow4mhO_pEc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vow4mhO_pEc" title="Light + Building 2022: NEXOSPACE Launch Event - Digitale Services für das Gebäudemanagement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[Youtube - Launch "Digital Service Suite" NEXOSPACE": with Andreas Mauer - CTO Bosch Building Technologies](https://www.youtube.com/watch?v=hZ0wqachONQ)
 
-[cinwell website](https://cinwell.com ':include :type=iframe width=100% height=400px')
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZ0wqachONQ" title="Launch 'Digital Service Suite' NEXOSPACE: with Andreas Mauer - CTO Bosch Building Technologies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Nexospace Foundation Services
 

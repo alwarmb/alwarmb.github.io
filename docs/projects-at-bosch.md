@@ -1,8 +1,37 @@
 # Projects @ Bosch Building Technologies
 
+>**Senior Solution Architect**
+<br>
+Munich, Germany
+<br>
+From `07.2015` to `Present`
+
+>**Senior Software Engineer**
+<br>
+Singapore
+<br>
+From `08.2010` to `06.2015`
+
+Bosch Building Technologies is an experienced system integrator helping buildings to be more secure, more efficient, and more comfortable.
+Bosch BT mainly serves the domains such as video surveillance, intrusion detection, access control, fire detection, conferencing systems, and building automation systems.
+
 # Nexospace Foundation Services
 
 ![nexospace-solution-architecture](./_images/projects/bosch/nexospace-solution-architecture.jpg)
+
+Foundation Services include the following Software-as-a-Service (SaaS) capabilities:
+
+- Cloud Gateways
+- Building System Gateways
+- Building Event Services
+- Building DataLakes
+- Building Analytics
+- Building Semantic Time Series
+- Building Digital Twins
+- Building Cockpit Framework
+- Building Map Services
+- API Federation Services
+- Ontology Management Services
 
 # Fire System Analyzer (FSA)
 
@@ -15,7 +44,7 @@ FSA is a service for customers who have Bosch Fire Alarm Systems. FSA is an impo
 - Detector Exchange Plan
 - Digital Logbook
 
-[Youtube - Introduction of the new services: NEXOSPACE Cyber Security Guard and NEXOSPACE Fire System Analyzer](https://www.youtube.com/watch?v=ik-7GkfRzp0&t=126s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ik-7GkfRzp0" title="Introduction of the new services: NEXOSPACE Cyber Security Guard and NEXOSPACE Fire System Analyzer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Building Performance Analyzer and Optimizer
 

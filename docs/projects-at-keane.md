@@ -1,5 +1,11 @@
 # Projects at Keane Inc.
 
+>**Software Engineer**
+<br>
+Bangalore, India
+<br>
+From `08.2006` to `10.2008`
+
 Keane is a U.S. software services company delivering strategy, application management and development through delivery centers in India
 
 During my employment at Keane Inc. between `08.2006` and `10.2008`, I worked on serveral projects. Some of the important one are listed below.
