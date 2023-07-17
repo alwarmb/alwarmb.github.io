@@ -2,9 +2,20 @@
 
 # Nexospace Foundation Services
 
+![nexospace-solution-architecture](./_images/projects/bosch/nexospace-solution-architecture.jpg)
+
 # Fire System Analyzer (FSA)
 
-FSA is a service for customers who have Bosch Fire Alarm Systems. FSA combines several use cases which are related to safety systems and is rooted in the BT Nexospace Program. FSA is an important element in the fire and safety system portfolio and is integrating digital and remote services. 
+FSA is a service for customers who have Bosch Fire Alarm Systems. FSA is an important element in the fire and safety system portfolio and is integrating digital and remote services. FSA combines several use cases which are related to safety systems and is rooted in the BT Nexospace Program.
+
+## Use Cases
+
+- Health Monitoring
+- Advanced Budget Prediction
+- Detector Exchange Plan
+- Digital Logbook
+
+[Youtube - Introduction of the new services: NEXOSPACE Cyber Security Guard and NEXOSPACE Fire System Analyzer](https://www.youtube.com/watch?v=ik-7GkfRzp0&t=126s)
 
 # Building Performance Analyzer and Optimizer
 
@@ -119,7 +130,7 @@ Endeavour has a modularized, modern, open, service oriented and event driven sof
 - Implemented system monitor (CPU, Virtual memory etc.) to monitor performance of video system.
 - Projects executed using agile methodologies (Feature Driven Development).
 
-# Project Details
+## Project Details
 
 https://www.boschsecurity.com/xc/en/solutions/management-software/building-integration-system/
 https://resources-boschsecurity-cdn.azureedge.net/public/documents/BIS_Data_sheet_enUS_63055878283.pdf

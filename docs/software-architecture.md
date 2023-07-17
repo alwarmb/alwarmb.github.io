@@ -1,5 +1,21 @@
 # Software Architecture
 
+The software architecture of a system serves as a blueprint for a system and depicts the system’s organization or structure and provides an explanation of how it behaves. A system represents the collection of components that accomplish a specific function or set of functions. Hence, software architecture provides an abstraction to manage the system complexity and establish a communication and coordination mechanism among components.
+
+Software design is the process of conceptualizing the software requirements into software implementation. This is the initial phase within the software development life cycle (SDLC) — shifting the concentration from the problem to the solution.
+
+## Goals of Software Architecture
+
+The primary goal of the architecture is to identify requirements that affect the structure of the application. A well-laid architecture reduces the business risks associated with building a technical solution and builds a bridge between business and technical requirements.
+
+- Expose the structure of the system, but hide its implementation details.
+- Realize all the use-cases and scenarios.
+- Try to address the requirements of various stakeholders.
+- Handle both functional and quality requirements.
+- Reduce the goal of ownership and improve the organization’s market position.
+- Improve quality and functionality offered by the system.
+- Improve external confidence in either the organization or system.
+
 # Software Architecture Design Patterns
 
 ## Ambassador Pattern

@@ -4,7 +4,7 @@ Tyco is a leading provider of security products and services, fire protection an
 
 During my employment at Keane Inc. between `11.2008` and `07.2010`, I worked on serveral projects. Some of the important one are listed below.
 
-## C•CURE 9000
+# C•CURE 9000
 
 Software House C•CURE® 9000 brings the best of physical and logical security together by integrating core access control functionality with a wide variety of business applications. 
 
@@ -18,7 +18,7 @@ No matter how distributed a business may be, C•CURE 9000 will help incorporate
 
 ![ccure-9000-portfolio](./_images/projects/tyco/ccure-9000-portfolio.jpg)
 
-## DMP Intrusion Panel & Galaxy Intrusion Panel (by Honeywell) Integration
+# DMP Intrusion Panel & Galaxy Intrusion Panel (by Honeywell) Integration
 
 <table style="width: 100%">
   <tr>

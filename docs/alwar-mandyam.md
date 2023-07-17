@@ -129,17 +129,37 @@ Active member of the BTARCET which sets the architectural constraints, rules, co
 -	Defining standards and benchmark KPIs (Example. BT 4.0 readiness index: bronze, silver, gold).
 -	Checkpoints / controlling / governance community sessions.
 
-## Senior Solution Architect for NEXOSPACE Digital Services
+## Solution Architect for NEXOSPACE Digital Services
 
 https://www.boschbuildingsolutions.com/xc/en/digital-services/
 
 NEXOSPACE, orchestrates the optimal interaction of the building's technical equipment in real time. Data from the various building service systems are brought together and analysed. In combination with a digital twin, this creates a completely new, holistic view of the building.
 
-## Consultant for Digital Real Estate
+![nexospace-solution-experience](./_images/projects/bosch/nexospace-solution-experience.jpg)
 
-https://www.boschbuildingsolutions.com/xc/en/news-and-stories/smart-buildings/
+![nexospace-solution-architecture](./_images/projects/bosch/nexospace-solution-architecture.jpg)
 
-Smart Buildings help save energy by networking intelligent building technologies, increasing the comfort and convenience of users, and ensuring consistently reliable operation. As a consultant of the service, I am working at creating an end-to-end experience for facility owners & operators using the architectural building blocks created by the NEXOSPACE services.
+[Youtube - Light + Building 2022: NEXOSPACE Launch Event - Digitale Services für das Gebäudemanagement](https://www.youtube.com/watch?v=Vow4mhO_pEc)
+
+[Youtube - Launch "Digital Service Suite" NEXOSPACE": with Andreas Mauer - CTO Bosch Building Technologies](https://www.youtube.com/watch?v=hZ0wqachONQ)
+
+[cinwell website](https://cinwell.com ':include :type=iframe width=100% height=400px')
+
+### Nexospace Foundation Services
+
+Foundation Services include the following Software-as-a-Service (SaaS) capabilities:
+
+- Cloud Gateways
+- Building System Gateways
+- Building Event Services
+- Building DataLakes
+- Building Analytics
+- Building Semantic Time Series
+- Building Digital Twins
+- Building Cockpit Framework
+- Building Map Services
+- API Federation Services
+- Ontology Management Services
 
 ## Alliance Partner for Bosch Corporate Research
 
@@ -180,9 +200,6 @@ I have also filed for **two more patents** which are currently being processed.
 https://www.boschbuildingsolutions.com/xc/en/news-and-stories/building-ontologies/
 
 I am the author of the Bosch Building Technologies Ontology Central which contains ontology models relevant for commercial buildings. Currently Foundation Ontology, Fire Alarm Systems Ontology and HVAC Systems Ontology have been open sourced. Ontologies related to other BT domains are being worked on and will be open sourced soon.
-
-## Cloud Based Certificate Management for Devices
-
 
 # TECHNOLOGY EXPERTISE
 
