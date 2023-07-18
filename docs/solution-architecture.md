@@ -38,7 +38,7 @@ This reference architecture shows a serverless, event-driven architecture that i
 
 ## Azure Kubernetes Service (AKS) Microservices Architecture
 
-![aks-production-deployment](./_images/arc-snippets/aks-production-deployment.png)
+![aks-production-deployment](./_images/arc-snippets/aks-production-deployment.drawio.png)
 
 ## Blue-Green Deployment of AKS Clusters
 
