@@ -14,28 +14,28 @@ I code, write, speak, empower, promote, learn, and listen.
 # PERSONAL DETAILS
 
 <div class="table-wrapper">
-<table>
-  <tr>
-    <td><img src="./_images/icons/home-locator-blue.svg" width="60"></td>
-    <td>Munich, Germany</td>
-  </tr>
-  <tr>
-    <td><img src="./_images/icons/call-blue.svg" width="60"></td>
-    <td>+49 152 21866859</td>
-  </tr>
-  <tr>
-    <td><img src="./_images/icons/website-blue.svg" width="60"></td>
-    <td><a href="https://profile.alwarmandyam.net/">https://profile.alwarmandyam.net</a></td>
-  </tr>
-  <tr>
-    <td><img src="./_images/icons/gmail-48.svg" width="60"></td>
-    <td><a href="mailto:alwarmb@gmail.com">alwarmb@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td><img src="./_images/icons/linkedin-48.svg" width="60"></td>
-    <td><a href="https://www.linkedin.com/in/alwarmb/">https://www.linkedin.com/in/alwarmb/</a></td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td><img src="./_images/icons/home-locator-blue.svg" width="60"></td>
+      <td>Munich, Germany</td>
+    </tr>
+    <tr>
+      <td><img src="./_images/icons/call-blue.svg" width="60"></td>
+      <td>+49 152 21866859</td>
+    </tr>
+    <tr>
+      <td><img src="./_images/icons/website-blue.svg" width="60"></td>
+      <td><a href="https://profile.alwarmandyam.net/">https://profile.alwarmandyam.net</a></td>
+    </tr>
+    <tr>
+      <td><img src="./_images/icons/gmail-48.svg" width="60"></td>
+      <td><a href="mailto:alwarmb@gmail.com">alwarmb@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td><img src="./_images/icons/linkedin-48.svg" width="60"></td>
+      <td><a href="https://www.linkedin.com/in/alwarmb/">https://www.linkedin.com/in/alwarmb/</a></td>
+    </tr>
+  </table>
 </div>
 
 ## Languages
@@ -141,7 +141,6 @@ NEXOSPACE, orchestrates the optimal interaction of the building's technical equi
 ![nexospace-solution-architecture](./_images/projects/bosch/nexospace-solution-architecture.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vow4mhO_pEc" title="Light + Building 2022: NEXOSPACE Launch Event - Digitale Services für das Gebäudemanagement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hZ0wqachONQ" title="Launch 'Digital Service Suite' NEXOSPACE: with Andreas Mauer - CTO Bosch Building Technologies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
