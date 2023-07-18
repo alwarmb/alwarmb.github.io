@@ -32,9 +32,9 @@ This reference architecture shows a serverless, event-driven architecture that i
 
 ## Machine Learning in Azure IoT Edge Vision AI
 
-![data-science-cycle](./_images/arc-snippets/data-science-cycle.drawio.png)
+![computer-vision-data-science-cycle](./_images/arc-snippets/computer-vision-data-science-cycle.drawio.png)
 
-![vision-edge-flow](./_images/arc-snippets/vision-edge-flow.png)
+![computer-vision-edge-flow](./_images/arc-snippets/computer-vision-edge-flow.drawio.png)
 
 ## Azure Kubernetes Service (AKS) Microservices Architecture
 
@@ -44,7 +44,7 @@ This reference architecture shows a serverless, event-driven architecture that i
 
 ![blue-green-aks-deployment-diagram-public-architecture](./_images/arc-snippets/blue-green-aks-deployment-diagram-public-architecture.drawio.png)
 
-# References
+<!-- # References
 
 - https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/iot
 - https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/iot-azure-data-explorer
@@ -53,4 +53,4 @@ This reference architecture shows a serverless, event-driven architecture that i
 - https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven
 - https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/serverless/event-processing
 - https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices-advanced
-- https://learn.microsoft.com/en-us/azure/architecture/guide/aks/blue-green-deployment-for-aks
+- https://learn.microsoft.com/en-us/azure/architecture/guide/aks/blue-green-deployment-for-aks -->
