@@ -13,7 +13,8 @@ I code, write, speak, empower, promote, learn, and listen.
 
 # PERSONAL DETAILS
 
-<table style="width: 100%">
+<div class="table-wrapper">
+<table>
   <tr>
     <td><img src="./_images/icons/home-locator-blue.svg" width="60"></td>
     <td>Munich, Germany</td>
@@ -35,6 +36,7 @@ I code, write, speak, empower, promote, learn, and listen.
     <td><a href="https://www.linkedin.com/in/alwarmb/">https://www.linkedin.com/in/alwarmb/</a></td>
   </tr>
 </table>
+</div>
 
 ## Languages
 
@@ -45,7 +47,6 @@ I code, write, speak, empower, promote, learn, and listen.
 |Tamil|_Fluent_|
 |Hindi|_Conversational_|
 |German|_Conversational (B1 Certified)_|
-
 
 # EDUCATION
 

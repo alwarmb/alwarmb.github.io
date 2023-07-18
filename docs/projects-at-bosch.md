@@ -93,6 +93,8 @@ FSA is a service for customers who have Bosch Fire Alarm Systems. FSA is an impo
 
 ![fsa-cockpit](./_images/projects/bosch/fsa-cockpit.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T7B3LlViQI4" title="NEXOSPACE Fire System Analyzer – The digital cockpit for your Fire Alarm System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ik-7GkfRzp0" title="Introduction of the new services: NEXOSPACE Cyber Security Guard and NEXOSPACE Fire System Analyzer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Remote Services - Next Gen
