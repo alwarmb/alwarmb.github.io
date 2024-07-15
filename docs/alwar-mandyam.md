@@ -103,7 +103,22 @@ Achieved **First Class with Distinction** in each of the eight semesters of the 
 Bosch BT is an experienced system integrator helping buildings to be more secure, more efficient, and more comfortable.
 Bosch BT mainly serves the domains such as video surveillance, intrusion detection, access control, fire detection, conferencing systems, and building automation systems.
 
-[Projects at Bosch](./projects-at-bosch.md)
+### Projects at Bosch
+
+[Projects at Bosch](projects-at-bosch.md)
+-	[NEXOSPACE Foundation Services](projects-at-bosch#nexospace-foundations-services)
+-	[Fire System Analyzer (FSA)](projects-at-bosch#fire-system-analyzer-fsa)
+-	[Remote Services - Next Gen](./projects-at-bosch.md#remote-services---next-gen)
+-	[Bosch Energy Services](./projects-at-bosch#bosch-energy-services)
+-	[Facility Management Assistant](./projects-at-bosch.md#facility-management-assistant)
+<!-- -	[Future of Conferencing Systems](./projects-at-bosch.md#future-of-conferencing-systems)
+-	[Building Performance Analyzer and Optimizer](./projects-at-bosch.md#building-performance-analyzer-and-optimizer)
+-	[Indoor Localization using Sensor Fusion](./projects-at-bosch.md#indoor-localization-using-sensor-fusion)
+-	[Gas Cylinder Detection using Cognitive Services](./projects-at-bosch.md#gas-cylinder-detection-using-cognitive-services) -->
+-	[Bosch Video Management System](./projects-at-bosch.md#bosch-video-management-system)
+-	[Project Endeavour](./projects-at-bosch.md#project-endeavour)
+-	[Building Integration System (BIS)](./projects-at-bosch.md#building-integration-system-bis)
+
 
 ## Bosch Security Systems
 
