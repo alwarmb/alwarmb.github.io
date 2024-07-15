@@ -141,13 +141,13 @@ personnel for timely processing.
 
 Workflow is the movement of work under program control from workstep to workstep. The collection of worksteps, connections, rules, and statements that define the behavior of workitems is known as a route. The rules by which workitems move between the worksteps an
 
-![infoimage-demo-workflow](./_images/projects/keane/infoimage-demo-workflow.png)
+![infoimage-demo-workflow](./_images/projects/keane-inc/infoimage-demo-workflow.png)
 
 #### Central Administration Console
 
 The Central Administration Console runs from the Microsoft Management Console (MMC), a common user interface that serves as host to a variety of administrative tools. Two of these tools, the Administration and Operations Consoles, provide a central point of access where users can communicate with Workflow Domain Subsystems in multiple InfoImage Workflow Domains, while maintaining an enterprise level database. In addition, the Central Administration Console hosts other administrative consoles, such as XML Gateway and Enterprise Licensing. 
 
-![infoimage-central-administrative-console](./_images/projects/keane/infoimage-central-administrative-console.png)
+![infoimage-central-administrative-console](./_images/projects/keane-inc/infoimage-central-administrative-console.png)
 
 #### Workflow Domain Subsystem Architecture
 
@@ -181,4 +181,4 @@ The Fax Manager supports both fax in and fax out of image documents. The Fax Man
 
 With server-to-server connectivity, servers communicate with each other in a peer-to-peer network. An implicit assumption is that any server can communicate with any other server. The servers can use TCP/IP or APPC to communicate. 
 
-![infoimage-server-to-server-communication](./_images/projects/keane/infoimage-server-to-server-communication.png)
+![infoimage-server-to-server-communication](./_images/projects/keane-inc/infoimage-server-to-server-communication.png)

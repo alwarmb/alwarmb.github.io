@@ -1,11 +1,11 @@
-# PROFILE
+# Profile
 
 ![alwar-mandyam](./_images/profile/alwar-02.jpg)
 
-<h1>ALWAR MANDYAM</h1>
+<h1>Alwar Mandyam</h1>
 <h2>Senior Solution Architect</h2>
 
-**Leader** & **manager** with around **two decades** of experience in designing and building **platforms**, **applications**, **services**, and **solutions**.
+**Leader** & **Manager** with around **two decades** of experience in designing and building **platforms**, **applications**, **services**, and **solutions**.
 <br>
 Expertise in the areas of **architecture**, **cloud technologies**, and **IoT services**.
 <br>
@@ -17,7 +17,7 @@ Proven **international collaborator**, fostering success in diverse cultural set
 <br>
 I code, write, speak, empower, promote, learn, and listen.
 
-# PERSONAL DETAILS
+# Personal Details
 
 <div class="table-wrapper">
   <table>
@@ -58,29 +58,29 @@ I code, write, speak, empower, promote, learn, and listen.
 |Tamil     |_Fluent_                         |
 |Hindi     |_Conversational_                 |
 
-# EDUCATION
+# Education
 
 ## Bachelor of Engineering
 
 <div class="table-wrapper">
   <table>
     <tr>
-      <td>University</td>
-      <td><b>Visvesvaraya Technological University</b></td>
+      <td><b>University</b></td>
+      <td>Visvesvaraya Technological University</td>
       <td><a>https://vtu.ac.in/en/</a></td>
     </tr>
     <tr>
-      <td>College</td>
-      <td><b>Jawaharlal Nehru National College of Engineering</b></td>
+      <td><b>College</b></td>
+      <td>Jawaharlal Nehru National College of Engineering</td>
       <td><a>http://jnnce.ac.in/</a></td>
     </tr>
     <tr>
-      <td>Speciality</td>
-      <td><b>Electronics & Communication</b></td>
+      <td><b>Speciality</b></td>
+      <td>Electronics & Communication</td>
       <td><a>http://jnnce.ac.in/jnndemo/deptece.html</a></td>
     </tr>
     <tr>
-      <td>Duration</td>
+      <td><b>Duration</b></td>
       <td>From <b>08.2002</b> to <b>07.2006</b></td>
       <td></td>
     </tr>
@@ -89,20 +89,20 @@ I code, write, speak, empower, promote, learn, and listen.
 
 Achieved **First Class with Distinction** in each of the eight semesters of the bachelor’s degree.  Successfully completed project work on latest technology vis-a-vis **Identification using Biometrics**
 
-# WORK EXPERIENCE
+# Work Experience
 
-- [Bosch Sicherheitssysteme GmbH](bosch-building-technologies)
-- [Tyco Fire & Security Pvt. Ltd.](tyco-fire-and-security)
-- [Keane Inc.](keane)
+- [Bosch Sicherheitssysteme GmbH](bosch-sicherheitssysteme-gmbh)
+- [Tyco Fire & Security Pvt. Ltd.](tyco-fire-and-security-pvt-ltd)
+- [Keane Inc.](keane-inc)
 
-# TECHNOLOGY EXPERTISE
+# Technology Experitise
 
-- [Solution Architecture](solution-architecture.md)
-  - [arc42 - Software Architecture Methodology](arc42-methodology.md)
-- [Software Architecture](software-architecture.md)
-- [Azure Services](azure-services.md)
+- [Solution Architecture](solution-architecture)
+  - [arc42 - Software Architecture Methodology](arc42-methodology)
+- [Software Architecture](software-architecture)
+- [Azure Services](azure-services)
 
-# [ROLES & RESPONSIBILITIES](roles-and-responsibilities)
+# [Roles & Responsibilities](roles-and-responsibilities)
 
 - [BT Architecture Engineering Group (BTARCET)](roles-and-responsibilities#bt-architecture-engineering-group-btarcet)
 - [Solution Architect for NEXOSPACE Digital Services](roles-and-responsibilities#solution-architect-for-nexospace-digital-services)
@@ -111,11 +111,11 @@ Achieved **First Class with Distinction** in each of the eight semesters of the 
 - [Co-host of DevOps Service Hub (DOSH) Conference](roles-and-responsibilities#co-host-of-devops-service-hub-dosh-conference)
 - [Hack Coach at Bosch Connected Experience (BCX)](roles-and-responsibilities#hack-coach-at-bosch-connected-experience-bcx)
 
-# [ACHIEVEMENTS](achievements)
+# [Achievements](achievements)
 
 - [Industry Alliance Partnerships](achievements#industry-alliance-partnerships)
 - [Patents](achievements#patents)
-- [Bosch Building Technologies Ontology Central](achievements#bosch-building-technologies-ontology-central)
+- [Bosch Building Technologies Ontology Central](achievements#bosch-sicherheitssysteme-gmbh-ontology-central)
   - [Foundation Ontology](achievements#foundation-ontology)
   - [Fire Alarm System Ontology](achievements#fire-alarm-system-ontology)
   - [HVAC System Ontology](achievements#hvac-system-ontology)
