@@ -1,10 +1,21 @@
 # Projects @ Tyco Fire and Security Pvt. Ltd.
 
->**Software Engineer**
-<br>
-Bangalore, India
-<br>
-From `11.2008` to `07.2010`
+<div class="table-wrapper">
+  <table>
+    <tr>
+      <td>Position</td>
+      <td><b>Software Engineer</b></td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td>Bangalore, India</td>
+    </tr>
+    <tr>
+      <td>Duration</td>
+      <td>From <b>11.2008</b> to <b>07.2010</b></td>
+    </tr>
+  </table>
+</div>
 
 Tyco is a leading provider of security products and services, fire protection and detection products and services, valves and controls, and other industrial products.
 

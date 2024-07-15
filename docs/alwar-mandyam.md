@@ -5,9 +5,15 @@
 <h1>ALWAR MANDYAM</h1>
 <h2>Senior Solution Architect</h2>
 
-I am a Senior Solution Architect at Bosch, working on IoT Business Services for our customers.
+**Leader** & **manager** with around **two decades** of experience in designing and building **platforms**, **applications**, **services**, and **solutions**.
 <br>
-I am actively working on several projects which enables Bosch to become market leader and an AIoT (Artificial Intelligence of Things) company.
+Expertise in the areas of **architecture**, **cloud technologies**, and **IoT services**.
+<br>
+Specialized in **large-scale software development** and **public cloud solutions**, including designing, and implementing these services/solutions.
+<br>
+Ability to effectively deliver solutions that align with the goals of **risk mitigation**, **cost savings**, and **ROI**.
+<br>
+Proven **international collaborator**, fostering success in diverse cultural settings.
 <br>
 I code, write, speak, empower, promote, learn, and listen.
 
@@ -15,6 +21,10 @@ I code, write, speak, empower, promote, learn, and listen.
 
 <div class="table-wrapper">
   <table>
+    <tr>
+      <td><img src="./_images/icons/nationality-blue.png" width="60"></td>
+      <td>German Citizen</td>
+    </tr>
     <tr>
       <td><img src="./_images/icons/home-locator-blue.svg" width="60"></td>
       <td>Munich, Germany</td>
@@ -41,12 +51,12 @@ I code, write, speak, empower, promote, learn, and listen.
 ## Languages
 
 |Language|Proficiency|
-|--|--|
-|English|_Fluent_|
-|Kannada|_Fluent_|
-|Tamil|_Fluent_|
-|Hindi|_Conversational_|
-|German|_Conversational (B1 Certified)_|
+|--        |--                               |
+|English   |_Fluent_                         |
+|German    |_Conversational (B1 Certified)_  |
+|Kannada   |_Fluent_                         |
+|Tamil     |_Fluent_                         |
+|Hindi     |_Conversational_                 |
 
 # EDUCATION
 
@@ -72,46 +82,106 @@ Achieved **First Class with Distinction** in each of the eight semesters of the 
 
 ## Bosch Building Technologies
 
->**Senior Solution Architect**
-<br>
-Munich, Germany
-<br>
-From `07.2015` to `Present`
+<div class="table-wrapper">
+  <table>
+    <tr>
+      <td>Position</td>
+      <td><b>Senior Solution Architect</b></td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td>Munich, Germany</td>
+    </tr>
+    <tr>
+      <td>Duration</td>
+      <td>From <b>07.2015</b> to <b>Present</b></td>
+    </tr>
+  </table>
+</div>
+
 
 Bosch BT is an experienced system integrator helping buildings to be more secure, more efficient, and more comfortable.
 Bosch BT mainly serves the domains such as video surveillance, intrusion detection, access control, fire detection, conferencing systems, and building automation systems.
+
+[Projects at Bosch](./projects-at-bosch.md)
 
 ## Bosch Security Systems
 
->**Senior Software Engineer**
-<br>
-Singapore
-<br>
-From `08.2010` to `06.2015`
+<div class="table-wrapper">
+  <table>
+    <tr>
+      <td>Position</td>
+      <td><b>Senior Software Engineer</b></td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td>Singapore</td>
+    </tr>
+    <tr>
+      <td>Duration</td>
+      <td>From <b>08.2010</b> to <b>06.2015</b></td>
+    </tr>
+  </table>
+</div>
 
 Bosch BT is an experienced system integrator helping buildings to be more secure, more efficient, and more comfortable.
 
 Bosch BT mainly serves the domains such as video surveillance, intrusion detection, access control, fire detection, conferencing systems, and building automation systems.
 
+[Projects at Bosch](./projects-at-bosch.md)
+
 ## Tyco Fire and Security Pvt. Ltd.
 
->**Software Engineer**
-<br>
-Bangalore, India
-<br>
-From `11.2008` to `07.2010`
+<div class="table-wrapper">
+  <table>
+    <tr>
+      <td>Position</td>
+      <td><b>Software Engineer</b></td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td>Bangalore, India</td>
+    </tr>
+    <tr>
+      <td>Duration</td>
+      <td>From <b>11.2008</b> to <b>07.2010</b></td>
+    </tr>
+  </table>
+</div>
 
 Tyco is a leading provider of security products and services, fire protection and detection products and services, valves and controls, and other industrial products.
 
+[Projects at Tyco](./projects-at-tyco.md)
+
 ## Keane Inc.
 
->**Software Engineer**
-<br>
-Bangalore, India
-<br>
-From `08.2006` to `10.2008`
+<div class="table-wrapper">
+  <table>
+    <tr>
+      <td>Position</td>
+      <td><b>Software Engineer</b></td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td>Bangalore, India</td>
+    </tr>
+    <tr>
+      <td>Duration</td>
+      <td>From <b>08.2006</b> to <b>10.2008</b></td>
+    </tr>
+  </table>
+</div>
 
 Keane is a U.S. software services company delivering strategy, application management and development through delivery centers in India
+
+[Projects at Keane](./projects-at-keane.md)
+
+# TECHNOLOGY EXPERTISE
+
+- [Solution Architecture](solution-architecture.md)
+  - [arc42 - Software Architecture Methodology](arc42-methodology.md)
+- [Software Architecture](software-architecture.md)
+- [Azure Services](azure-services.md)
 
 # ROLES & RESPONSIBILITIES
 
@@ -231,10 +301,3 @@ HVAC system ontology to describe  HVAC entities like  `Dampers`, `Pumps`, `Therm
 The diagram below shows the core elements of the HVAC system, the foundation concepts like points are not shown.
 
 ![HVAC.Core](./_images/projects/bosch/HVAC.Core.drawio.png)
-
-# TECHNOLOGY EXPERTISE
-
-- [Solution Architecture](solution-architecture.md)
-  - [arc42 - Software Architecture Methodology](arc42-methodology.md)
-- [Software Architecture](software-architecture.md)
-- [Azure Services](azure-services.md)

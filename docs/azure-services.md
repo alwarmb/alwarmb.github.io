@@ -34,7 +34,7 @@ Gather, store, process, analyze, and visualize data of any variety, volume, or v
 |<img src="./_images/azure/analytics/00039-icon-service-Event-Hubs.svg" width="50">|**Event Hubs**|Expert|Receive telemetry from millions of devices||
 |<img src="./_images/azure/analytics/03332-icon-service-Power-BI-Embedded.svg" width="50">|**Power BI Embedded**|Beginner|White label Power BI to quickly and easily provide exceptional customer facing dashboards and analytics in your own applications||
 |<img src="./_images/azure/analytics/00009-icon-service-Log-Analytics-Workspaces.svg" width="50">|**Log Analytics Workspaces**|Advanced|End-to-end observability for your applications, infrastructure, and network.||
-|<img src="./_images/azure/analytics/02189-icon-service-Azure-Workbooks.svg" width="50">|**Azure Workbooks**|Beginner|Workbooks provide a flexible canvas for data analysis and the creation of rich visual reports within the Azure portal.||
+|<img src="./_images/azure/analytics/02189-icon-service-Azure-Workbooks.svg" width="50">|**Azure Workbooks**|Intermediate|Workbooks provide a flexible canvas for data analysis and the creation of rich visual reports within the Azure portal.||
 
 
 # Compute
@@ -46,7 +46,7 @@ Access cloud compute capacity and scale on demand—and only pay for the resourc
 |<img src="./_images/azure/compute/10035-icon-service-App-Services.svg" width="50">|**App Services**|Expert|Quickly create powerful cloud apps for web and mobile||
 |<img src="./_images/azure/compute/10034-icon-service-VM-Scale-Sets.svg" width="50">|**Virtual Machine Scale Sets**|Expert|Manage and scale up to thousands of Linux and Windows VMs||
 |<img src="./_images/azure/compute/10021-icon-service-Virtual-Machine.svg" width="50">|**Virtual Machines**|Expert|Provision Windows and Linux VMs in seconds||
-|<img src="./_images/azure/compute/10023-icon-service-Kubernetes-Services.svg" width="50">|**Azure Kubernetes Services (AKS)**|Beginner|Deploy and scale containers on managed Kubernetes||
+|<img src="./_images/azure/compute/10023-icon-service-Kubernetes-Services.svg" width="50">|**Azure Kubernetes Services (AKS)**|Intermediate|Deploy and scale containers on managed Kubernetes||
 |<img src="./_images/azure/compute/10104-icon-service-Container-Instances.svg" width="50">|**Container Instances**|Intemediate|Launch containers with hypervisor isolation||
 |<img src="./_images/azure/compute/10029-icon-service-Function-Apps.svg" width="50">|**Azure Functions**|Expert|Execute event-driven serverless code functions with an end-to-end development experience||
 
@@ -59,6 +59,7 @@ Develop and manage your containerized applications faster with integrated tools
 |<img src="./_images/azure/containers/10023-icon-service-Kubernetes-Services.svg" width="50">|**Azure Kubernetes Services (AKS)**|Beginner|Deploy and scale containers on managed Kubernetes||
 |<img src="./_images/azure/compute/10029-icon-service-Function-Apps.svg" width="50">|**Azure Functions**|Expert|Execute event-driven serverless code functions with an end-to-end development experience||
 |<img src="./_images/azure/containers/10035-icon-service-App-Services.svg" width="50">|**Web App for Containers**|Intermediate|Quickly create powerful cloud apps for web and mobile||
+|<img src="./_images/azure/containers/10104-icon-service-Container-Instances.svg" width="50">|**Azure Container Apps**|Intermediate|Build and deploy modern apps and microservices using serverless containers||
 |<img src="./_images/azure/containers/10104-icon-service-Container-Instances.svg" width="50">|**Azure Container Instances**|Intermediate|Launch containers with hypervisor isolation||
 |<img src="./_images/azure/containers/10105-icon-service-Container-Registries.svg" width="50">|**Azure Container Registry**|Expert|Build, store, secure, and replicate container images and artifacts||
 

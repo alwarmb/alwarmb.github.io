@@ -1,16 +1,39 @@
 # Projects @ Bosch Building Technologies
 
->**Senior Solution Architect**
-<br>
-Munich, Germany
-<br>
-From `07.2015` to `Present`
+<div class="table-wrapper">
+  <table>
+    <tr>
+      <td>Position</td>
+      <td><b>Senior Solution Architect</b></td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td>Munich, Germany</td>
+    </tr>
+    <tr>
+      <td>Duration</td>
+      <td>From <b>07.2015</b> to <b>Present</b></td>
+    </tr>
+  </table>
+</div>
 
->**Senior Software Engineer**
-<br>
-Singapore
-<br>
-From `08.2010` to `06.2015`
+
+<div class="table-wrapper">
+  <table>
+    <tr>
+      <td>Position</td>
+      <td><b>Senior Software Engineer</b></td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td>Singapore</td>
+    </tr>
+    <tr>
+      <td>Duration</td>
+      <td>From <b>08.2010</b> to <b>06.2015</b></td>
+    </tr>
+  </table>
+</div>
 
 Bosch Building Technologies is an experienced system integrator helping buildings to be more secure, more efficient, and more comfortable.
 Bosch BT mainly serves the domains such as video surveillance, intrusion detection, access control, fire detection, conferencing systems, and building automation systems.
@@ -31,7 +54,7 @@ Bosch BT mainly serves the domains such as video surveillance, intrusion detecti
   </tr>
   <tr>
     <td><b>Role</b></td>
-    <td>Senior Solution Architect</td>
+    <td>Lead Solution Architect</td>
   </tr>
 </table>
 
@@ -69,7 +92,7 @@ Foundation Services include the following Software-as-a-Service (SaaS) capabilit
   </tr>
   <tr>
     <td><b>Role</b></td>
-    <td>Senior Solution Architect</td>
+    <td>Lead Solution Architect</td>
   </tr>
 </table>
 
@@ -105,7 +128,7 @@ FSA is a service for customers who have Bosch Fire Alarm Systems. FSA is an impo
   </tr>
   <tr>
     <td><b>Role</b></td>
-    <td>Senior Solution Architect</td>
+    <td>Lead Solution Architect</td>
   </tr>
 </table>
 
