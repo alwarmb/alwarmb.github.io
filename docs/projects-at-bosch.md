@@ -5,31 +5,16 @@
     <tr>
       <td>Position</td>
       <td><b>Senior Solution Architect</b></td>
-    </tr>
-    <tr>
-      <td>Location</td>
-      <td>Munich, Germany</td>
-    </tr>
-    <tr>
-      <td>Duration</td>
-      <td>From <b>07.2015</b> to <b>Present</b></td>
-    </tr>
-  </table>
-</div>
-
-
-<div class="table-wrapper">
-  <table>
-    <tr>
-      <td>Position</td>
       <td><b>Senior Software Engineer</b></td>
     </tr>
     <tr>
       <td>Location</td>
+      <td>Munich, Germany</td>
       <td>Singapore</td>
     </tr>
     <tr>
       <td>Duration</td>
+      <td>From <b>07.2015</b> to <b>Present</b></td>
       <td>From <b>08.2010</b> to <b>06.2015</b></td>
     </tr>
   </table>

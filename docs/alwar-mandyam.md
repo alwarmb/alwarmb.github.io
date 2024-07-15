@@ -102,9 +102,8 @@ Achieved **First Class with Distinction** in each of the eight semesters of the 
 Bosch BT is an experienced system integrator helping buildings to be more secure, more efficient, and more comfortable.
 Bosch BT mainly serves the domains such as video surveillance, intrusion detection, access control, fire detection, conferencing systems, and building automation systems.
 
-### Projects at Bosch
+### [Projects at Bosch](projects-at-bosch)
 
-[Projects at Bosch](projects-at-bosch)
 -	[NEXOSPACE Foundation Services](projects-at-bosch#nexospace-foundations-services)
 -	[Fire System Analyzer (FSA)](projects-at-bosch#fire-system-analyzer-fsa)
 -	[Remote Services - Next Gen](projects-at-bosch#remote-services---next-gen)
@@ -139,9 +138,8 @@ Bosch BT mainly serves the domains such as video surveillance, intrusion detecti
 
 [Projects at Bosch](./projects-at-bosch.md)
 
-### Projects at Bosch
+### [Projects at Bosch](projects-at-bosch)
 
-[Projects at Bosch](projects-at-bosch)
 -	[NEXOSPACE Foundation Services](projects-at-bosch#nexospace-foundations-services)
 -	[Fire System Analyzer (FSA)](projects-at-bosch#fire-system-analyzer-fsa)
 -	[Remote Services - Next Gen](projects-at-bosch#remote-services---next-gen)
@@ -172,9 +170,8 @@ Bosch BT mainly serves the domains such as video surveillance, intrusion detecti
 
 Tyco is a leading provider of security products and services, fire protection and detection products and services, valves and controls, and other industrial products.
 
-### Projects at Tyco
+### [Projects at Tyco](projects-at-tyco)
 
-[Projects at Tyco](projects-at-tyco)
 -	[C•CURE 9000](projects-at-tyco#ccure-9000)
 -	[DMP Intrusion Panel & Galaxy Intrusion Panel (by Honeywell) Integration](projects-at-tyco#dmp-intrusion-panel--galaxy-intrusion-panel-by-honeywell-integration)
 -	[iStar Controller Simulator](projects-at-tyco#istar-controller-simulator)
@@ -201,9 +198,8 @@ Tyco is a leading provider of security products and services, fire protection an
 
 Keane is a U.S. software services company delivering strategy, application management and development through delivery centers in India
 
-### Projects at Keane
+### [Projects at Keane](projects-at-keane)
 
-[Projects at Keane](projects-at-keane)
 -	[Unisys – Client Satisfaction & Incident Survey (CSIS)](projects-at-keane#unisys--client-satisfaction--incident-survey-csis)
 -	[Merrill Lynch Security and Provisioning Framework](projects-at-keane#merrill-lynch-security-and-provisioning-framework)
 -	[Unisys InfoImage](projects-at-keane#unisys-infoimage)
@@ -234,18 +230,18 @@ Software design is the process of conceptualizing the software requirements into
 
 # ROLES & RESPONSIBILITIES
 
-### [BT Architecture Engineering Group (BTARCET)](roles-and-responsibilities#bt-architecture-engineering-group-btarcet)
-### [Solution Architect for NEXOSPACE Digital Services](roles-and-responsibilities#solution-architect-for-nexospace-digital-services)
-#### [Nexospace Foundation Services](roles-and-responsibilities#nexospace-foundation-services)
-### [Alliance Partner for Bosch Corporate Research](roles-and-responsibilities#alliance-partner-for-bosch-corporate-research)
-### [Co-host of DevOps Service Hub (DOSH) Conference](roles-and-responsibilities#co-host-of-devops-service-hub-dosh-conference)
-### [Hack Coach at Bosch Connected Experience (BCX)](roles-and-responsibilities#hack-coach-at-bosch-connected-experience-bcx)
+- [BT Architecture Engineering Group (BTARCET)](roles-and-responsibilities#bt-architecture-engineering-group-btarcet)
+- [Solution Architect for NEXOSPACE Digital Services](roles-and-responsibilities#solution-architect-for-nexospace-digital-services)
+  - [Nexospace Foundation Services](roles-and-responsibilities#nexospace-foundation-services)
+- [Alliance Partner for Bosch Corporate Research](roles-and-responsibilities#alliance-partner-for-bosch-corporate-research)
+- [Co-host of DevOps Service Hub (DOSH) Conference](roles-and-responsibilities#co-host-of-devops-service-hub-dosh-conference)
+- [Hack Coach at Bosch Connected Experience (BCX)](roles-and-responsibilities#hack-coach-at-bosch-connected-experience-bcx)
 
 # ACHIEVEMENTS
 
-### [Industry Alliance Partnerships](achievements#industry-alliance-partnerships)
-### [Patents](achievements#patents)
-### [Bosch Building Technologies Ontology Central](achievements#bosch-building-technologies-ontology-central)
-#### [Foundation Ontology](achievements#foundation-ontology)
-#### [Fire Alarm System Ontology](achievements#fire-alarm-system-ontology)
-#### [HVAC System Ontology](achievements#hvac-system-ontology)
+- [Industry Alliance Partnerships](achievements#industry-alliance-partnerships)
+- [Patents](achievements#patents)
+- [Bosch Building Technologies Ontology Central](achievements#bosch-building-technologies-ontology-central)
+  - [Foundation Ontology](achievements#foundation-ontology)
+  - [Fire Alarm System Ontology](achievements#fire-alarm-system-ontology)
+  - [HVAC System Ontology](achievements#hvac-system-ontology)
