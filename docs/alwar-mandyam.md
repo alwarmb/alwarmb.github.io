@@ -1,4 +1,4 @@
-# Profile
+# PROFILE
 
 ![alwar-mandyam](./_images/profile/alwar-02.jpg)
 
@@ -62,173 +62,47 @@ I code, write, speak, empower, promote, learn, and listen.
 
 ## Bachelor of Engineering
 
-### Jawaharlal Nehru National College of Engineering
-
-http://jnnce.ac.in/
-
-**Visvesvaraya Technological University**
-<br>
-https://vtu.ac.in/en/
-
-Bachelor of Engineering – Electronics & Communication
-<br>
-http://jnnce.ac.in/jnndemo/deptece.html
-
->From `08.2002` to `07.2006`
+<div class="table-wrapper">
+  <table>
+    <tr>
+      <td>University</td>
+      <td><b>Visvesvaraya Technological University</b></td>
+      <td><a>https://vtu.ac.in/en/</a></td>
+    </tr>
+    <tr>
+      <td>College</td>
+      <td><b>Jawaharlal Nehru National College of Engineering</b></td>
+      <td><a>http://jnnce.ac.in/</a></td>
+    </tr>
+    <tr>
+      <td>Speciality</td>
+      <td><b>Electronics & Communication</b></td>
+      <td><a>http://jnnce.ac.in/jnndemo/deptece.html</a></td>
+    </tr>
+    <tr>
+      <td>Duration</td>
+      <td>From <b>08.2002</b> to <b>07.2006</b></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
 
 Achieved **First Class with Distinction** in each of the eight semesters of the bachelor’s degree.  Successfully completed project work on latest technology vis-a-vis **Identification using Biometrics**
 
 # WORK EXPERIENCE
 
-## Bosch Building Technologies
-
-<div class="table-wrapper">
-  <table>
-    <tr>
-      <td>Position</td>
-      <td><b>Senior Solution Architect</b></td>
-    </tr>
-    <tr>
-      <td>Location</td>
-      <td>Munich, Germany</td>
-    </tr>
-    <tr>
-      <td>Duration</td>
-      <td>From <b>07.2015</b> to <b>Present</b></td>
-    </tr>
-  </table>
-</div>
-
-Bosch BT is an experienced system integrator helping buildings to be more secure, more efficient, and more comfortable.
-Bosch BT mainly serves the domains such as video surveillance, intrusion detection, access control, fire detection, conferencing systems, and building automation systems.
-
-### [Projects at Bosch](projects-at-bosch)
-
--	[NEXOSPACE Foundation Services](projects-at-bosch#nexospace-foundations-services)
--	[Fire System Analyzer (FSA)](projects-at-bosch#fire-system-analyzer-fsa)
--	[Remote Services - Next Gen](projects-at-bosch#remote-services---next-gen)
--	[Bosch Energy Services](projects-at-bosch#bosch-energy-services)
--	[Facility Management Assistant](projects-at-bosch#facility-management-assistant)
--	[Bosch Video Management System](projects-at-bosch#bosch-video-management-system)
--	[Project Endeavour](projects-at-bosch#project-endeavour)
--	[Building Integration System (BIS)](projects-at-bosch#building-integration-system-bis)
-
-## Bosch Security Systems
-
-<div class="table-wrapper">
-  <table>
-    <tr>
-      <td>Position</td>
-      <td><b>Senior Software Engineer</b></td>
-    </tr>
-    <tr>
-      <td>Location</td>
-      <td>Singapore</td>
-    </tr>
-    <tr>
-      <td>Duration</td>
-      <td>From <b>08.2010</b> to <b>06.2015</b></td>
-    </tr>
-  </table>
-</div>
-
-Bosch BT is an experienced system integrator helping buildings to be more secure, more efficient, and more comfortable.
-
-Bosch BT mainly serves the domains such as video surveillance, intrusion detection, access control, fire detection, conferencing systems, and building automation systems.
-
-[Projects at Bosch](./projects-at-bosch.md)
-
-### [Projects at Bosch](projects-at-bosch)
-
--	[NEXOSPACE Foundation Services](projects-at-bosch#nexospace-foundations-services)
--	[Fire System Analyzer (FSA)](projects-at-bosch#fire-system-analyzer-fsa)
--	[Remote Services - Next Gen](projects-at-bosch#remote-services---next-gen)
--	[Bosch Energy Services](projects-at-bosch#bosch-energy-services)
--	[Facility Management Assistant](projects-at-bosch#facility-management-assistant)
--	[Bosch Video Management System](projects-at-bosch#bosch-video-management-system)
--	[Project Endeavour](projects-at-bosch#project-endeavour)
--	[Building Integration System (BIS)](projects-at-bosch#building-integration-system-bis)
-
-## Tyco Fire and Security Pvt. Ltd.
-
-<div class="table-wrapper">
-  <table>
-    <tr>
-      <td>Position</td>
-      <td><b>Software Engineer</b></td>
-    </tr>
-    <tr>
-      <td>Location</td>
-      <td>Bangalore, India</td>
-    </tr>
-    <tr>
-      <td>Duration</td>
-      <td>From <b>11.2008</b> to <b>07.2010</b></td>
-    </tr>
-  </table>
-</div>
-
-Tyco is a leading provider of security products and services, fire protection and detection products and services, valves and controls, and other industrial products.
-
-### [Projects at Tyco](projects-at-tyco)
-
--	[C•CURE 9000](projects-at-tyco#ccure-9000)
--	[DMP Intrusion Panel & Galaxy Intrusion Panel (by Honeywell) Integration](projects-at-tyco#dmp-intrusion-panel--galaxy-intrusion-panel-by-honeywell-integration)
--	[iStar Controller Simulator](projects-at-tyco#istar-controller-simulator)
--	[Bosch Video Integration](projects-at-tyco#bosch-video-integration)
-
-## Keane Inc.
-
-<div class="table-wrapper">
-  <table>
-    <tr>
-      <td>Position</td>
-      <td><b>Software Engineer</b></td>
-    </tr>
-    <tr>
-      <td>Location</td>
-      <td>Bangalore, India</td>
-    </tr>
-    <tr>
-      <td>Duration</td>
-      <td>From <b>08.2006</b> to <b>10.2008</b></td>
-    </tr>
-  </table>
-</div>
-
-Keane is a U.S. software services company delivering strategy, application management and development through delivery centers in India
-
-### [Projects at Keane](projects-at-keane)
-
--	[Unisys – Client Satisfaction & Incident Survey (CSIS)](projects-at-keane#unisys--client-satisfaction--incident-survey-csis)
--	[Merrill Lynch Security and Provisioning Framework](projects-at-keane#merrill-lynch-security-and-provisioning-framework)
--	[Unisys InfoImage](projects-at-keane#unisys-infoimage)
+- [Bosch Sicherheitssysteme GmbH](bosch-building-technologies)
+- [Tyco Fire & Security Pvt. Ltd.](tyco-fire-and-security)
+- [Keane Inc.](keane)
 
 # TECHNOLOGY EXPERTISE
 
-## Solution Architecture
-
-Solution architecture is a practice to provide ground for software development projects by tailoring IT solutions to specific business needs and defining their functional requirements and stages of implementation. Solution architecture is the means to execute or realise a technology strategy.
-
-In this section you will find solution architecture diagrams and technology descriptions for reference architectures, real world examples of cloud architectures, and solution ideas for common workloads.
-
 - [Solution Architecture](solution-architecture.md)
-  - [Solution Architecture Snippets](solution-architecture#solution-architecture-snippets)
   - [arc42 - Software Architecture Methodology](arc42-methodology.md)
-
-## Software Architecture
-
-The software architecture of a system serves as a blueprint for a system and depicts the system’s organization or structure and provides an explanation of how it behaves. A system represents the collection of components that accomplish a specific function or set of functions. Hence, software architecture provides an abstraction to manage the system complexity and establish a communication and coordination mechanism among components.
-
-Software design is the process of conceptualizing the software requirements into software implementation. This is the initial phase within the software development life cycle (SDLC) — shifting the concentration from the problem to the solution.
-
 - [Software Architecture](software-architecture.md)
-
-## Azure Services
-
 - [Azure Services](azure-services.md)
 
-# ROLES & RESPONSIBILITIES
+# [ROLES & RESPONSIBILITIES](roles-and-responsibilities)
 
 - [BT Architecture Engineering Group (BTARCET)](roles-and-responsibilities#bt-architecture-engineering-group-btarcet)
 - [Solution Architect for NEXOSPACE Digital Services](roles-and-responsibilities#solution-architect-for-nexospace-digital-services)
@@ -237,7 +111,7 @@ Software design is the process of conceptualizing the software requirements into
 - [Co-host of DevOps Service Hub (DOSH) Conference](roles-and-responsibilities#co-host-of-devops-service-hub-dosh-conference)
 - [Hack Coach at Bosch Connected Experience (BCX)](roles-and-responsibilities#hack-coach-at-bosch-connected-experience-bcx)
 
-# ACHIEVEMENTS
+# [ACHIEVEMENTS](achievements)
 
 - [Industry Alliance Partnerships](achievements#industry-alliance-partnerships)
 - [Patents](achievements#patents)

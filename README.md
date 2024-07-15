@@ -23,6 +23,7 @@ docsify serve docs
 # References
 
 - https://docsify.js.org/
+- https://github.com/docsifyjs/docsify/blob/develop/docs/configuration.md
 
 # Themes Used
 - https://jhildenbiddle.github.io/docsify-themeable/#/

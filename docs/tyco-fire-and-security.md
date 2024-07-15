@@ -1,4 +1,4 @@
-# Projects @ Tyco Fire and Security Pvt. Ltd.
+# Tyco Fire and Security Pvt. Ltd.
 
 <div class="table-wrapper">
   <table>
@@ -21,7 +21,9 @@ Tyco is a leading provider of security products and services, fire protection an
 
 During my employment at Keane Inc. between `11.2008` and `07.2010`, I worked on serveral projects. Some of the important one are listed below.
 
-# C•CURE 9000
+# Projects @ Tyco
+
+## C•CURE 9000
 
 Software House C•CURE® 9000 brings the best of physical and logical security together by integrating core access control functionality with a wide variety of business applications. 
 
@@ -35,7 +37,7 @@ No matter how distributed a business may be, C•CURE 9000 will help incorporate
 
 ![ccure-9000-portfolio](./_images/projects/tyco/ccure-9000-portfolio.jpg)
 
-# DMP Intrusion Panel & Galaxy Intrusion Panel (by Honeywell) Integration
+## DMP Intrusion Panel & Galaxy Intrusion Panel (by Honeywell) Integration
 
 <table style="width: 100%">
   <tr>
@@ -52,7 +54,7 @@ No matter how distributed a business may be, C•CURE 9000 will help incorporate
   </tr>
 </table>
 
-## My Responsibilities
+### My Responsibilities
 
 - Proof of Concept development.
 - Designing the integration architecture.
@@ -60,7 +62,7 @@ No matter how distributed a business may be, C•CURE 9000 will help incorporate
 - Implementation of hardware integration protocol.
 - Development and unit testing
 
-## Project Details
+### Project Details
 
 https://www.swhouse.com/products/DMP-XR500-Integration.aspx
 https://www.swhouse.com/products/Honeywell_Galaxy_Dimension_Integration.aspx 
@@ -78,7 +80,7 @@ The C•CURE 9000 software deals with interpreting the messages sent by the intr
 
 Also, C•CURE 9000 software is used for triggering some actions manually/automatically in the intrusion panel. For Example, disarming all the areas of the intrusion panel whenever a fire is detected in a fire detection system.
 
-# iStar Controller Simulator
+## iStar Controller Simulator
 
 <table style="width: 100%">
   <tr>
@@ -95,7 +97,7 @@ Also, C•CURE 9000 software is used for triggering some actions manually/automa
   </tr>
 </table>
 
-## My Responsibilities
+### My Responsibilities
 
 - Proof of Concept development
 - Designing the architecture
@@ -103,7 +105,7 @@ Also, C•CURE 9000 software is used for triggering some actions manually/automa
 - Using protocol for software interaction
 - Implementation and unit testing
 
-## Project Details
+### Project Details
 
 https://www.swhouse.com/products/hardware_istar.aspx
 https://tyco-tsp.com/anz/iSTAR-Door-Controllers-detail.php
@@ -116,7 +118,7 @@ iStar Simulator emulates the iStar controller. It pumps data into any software w
 - Simulates hundreds of iStar controllers.  Hence saving the cost of actual hardware which might be required for scalability testing.
 - Can be used to monitor system performance.
 
-# Bosch Video Integration
+## Bosch Video Integration
 
 <table style="width: 100%">
   <tr>
@@ -133,7 +135,7 @@ iStar Simulator emulates the iStar controller. It pumps data into any software w
   </tr>
 </table>
 
-## My Responsibilities
+### My Responsibilities
 
 - Proof of Concept development
 - Designing the architecture
@@ -141,7 +143,7 @@ iStar Simulator emulates the iStar controller. It pumps data into any software w
 - Using protocol for hardware interaction
 - Implementation and unit testing
 
-## Project Details
+### Project Details
 
 https://www.swhouse.com/products/Bosch_VRM.aspx
 https://www.boschsecurity.com/us/en/partners/technology-partners/meet-our-partners/partner-software-house/

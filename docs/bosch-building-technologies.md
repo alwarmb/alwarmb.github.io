@@ -1,4 +1,4 @@
-# Projects @ Bosch Building Technologies
+# Bosch Building Technologies
 
 <div class="table-wrapper">
   <table>
@@ -30,7 +30,9 @@ Bosch BT mainly serves the domains such as video surveillance, intrusion detecti
 - Complex tailor-made solutions for building security, building automation, and energy services
 - Optimum maintenance of security systems by an experienced service team
 
-# Nexospace Foundations Services
+# Projects @ Bosch
+
+## Nexospace Foundations Services
 
 <table style="width: 100%">
   <tr>
@@ -43,14 +45,14 @@ Bosch BT mainly serves the domains such as video surveillance, intrusion detecti
   </tr>
 </table>
 
-## My Responsibilities
+### My Responsibilities
 
 -	Definition of the end-to-end target architectures.
 -	Nexospace reference architecture definition.
 -	Technology selections and proof of concept definitions, design, and realization.
 -	Checkpoints / controlling / governance community sessions.
 
-## Project Details
+### Project Details
 
 ![nexospace-solution-architecture](./_images/projects/bosch/nexospace-solution-architecture.jpg)
 
@@ -68,7 +70,7 @@ Foundation Services include the following Software-as-a-Service (SaaS) capabilit
 - API Federation Services
 - Ontology Management Services
 
-# Fire System Analyzer (FSA)
+## Fire System Analyzer (FSA)
 
 <table style="width: 100%">
   <tr>
@@ -81,7 +83,7 @@ Foundation Services include the following Software-as-a-Service (SaaS) capabilit
   </tr>
 </table>
 
-## My Responsibilities
+### My Responsibilities
 
 -	Definition of the end-to-end target architectures.
 -	Service architectures definition based on the reference architecture.
@@ -89,11 +91,11 @@ Foundation Services include the following Software-as-a-Service (SaaS) capabilit
 -	Industry alliance partnership ignitions and management.
 -	Checkpoints / controlling / governance community sessions.
 
-## Project Details
+### Project Details
 
 FSA is a service for customers who have Bosch Fire Alarm Systems. FSA is an important element in the fire and safety system portfolio and is integrating digital and remote services. FSA combines several use cases which are related to safety systems and is rooted in the BT Nexospace Program.
 
-### Use Cases
+#### Use Cases
 
 - Health Status (Betriebsstatus)
 - Detector Exchange Plan (Zu tauschende Elemente)
@@ -105,7 +107,7 @@ FSA is a service for customers who have Bosch Fire Alarm Systems. FSA is an impo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ik-7GkfRzp0" title="Introduction of the new services: NEXOSPACE Cyber Security Guard and NEXOSPACE Fire System Analyzer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Remote Services - Next Gen
+## Remote Services - Next Gen
 <table style="width: 100%">
   <tr>
     <td><b>Location</b></td>
@@ -117,7 +119,7 @@ FSA is a service for customers who have Bosch Fire Alarm Systems. FSA is an impo
   </tr>
 </table>
 
-## My Responsibilities
+### My Responsibilities
 
 -	Definition of the end-to-end target architectures.
 -	Service architectures definition based on the reference architecture.
@@ -125,7 +127,7 @@ FSA is a service for customers who have Bosch Fire Alarm Systems. FSA is an impo
 -	Industry alliance partnership ignitions and management.
 -	Checkpoints / controlling / governance community sessions.
 
-## Project Details
+### Project Details
 
 The Remote Services project involves the modernisation of our existing remote services infrastructure EffiLink. The new technical basis is the Microsoft Azure platform (Cloud).
 
@@ -133,7 +135,7 @@ The Remote Services project involves the modernisation of our existing remote se
 - **Condition Monitoring**: Support maintenance remotely, detect faults early and before they occur and initiate measures automatically.
 - **Inspection**: Safe, digital documentation maintenance which are audit-proof and of high-quality - enabling  automatically recorded in inspection plans.
 
-#### Advantages of using Remote Services - Next Gen
+##### Advantages of using Remote Services - Next Gen
 
 - **Compatible with all Bosch security systems:** You can use the remote services and benefits for all of your Bosch security technology.
 - **Smooth installation:** Remote Services enable your security systems to be installed quickly and effectively. Our on-site specialists and technicians work hand in hand.
@@ -143,26 +145,26 @@ The Remote Services project involves the modernisation of our existing remote se
 - **Effective remote access:** Our remote service experts quickly and reliably assess the status of your security systems on screen and actively intervene if necessary - but without disrupting regular on-site operations.
 - **Fix faults faster:** If a fault cannot be fixed remotely, a detailed remote diagnosis is carried out in order to optimally prepare the technician for the on-site work. The benefit for you: shorter downtimes and thus increased availability of your systems.
 
-# Other Services Based on Nexospace Foundations
+## Other Services Based on Nexospace Foundations
 
-## Bosch Energy Services
+### Bosch Energy Services
 
 https://www.boschbuildingsolutions.com/xc/en/energy-services/
 
-## Facility Management Assistant
+### Facility Management Assistant
 
 https://www.boschservicesolutions.com/en/your-industry/buildings/
 
 <!--
-# Building Performance Analyzer and Optimizer
+## Building Performance Analyzer and Optimizer
 
-# Future of Conferencing Systems
+## Future of Conferencing Systems
 
-# Indoor Localization using Sensor Fusion
+## Indoor Localization using Sensor Fusion
 
-# Gas Cylinder Detection using Cognitive Services -->
+## Gas Cylinder Detection using Cognitive Services -->
 
-# Bosch Video Management System
+## Bosch Video Management System
 
 <table style="width: 100%">
   <tr>
@@ -179,9 +181,9 @@ https://www.boschservicesolutions.com/en/your-industry/buildings/
   </tr>
 </table>
 
-## My Achievements
+### My Achievements
 
-## Project Details
+### Project Details
 
 https://www.boschsecurity.com/de/de/loesungen/managementsoftware/bvms/
 https://community.boschsecurity.com/t5/Security-Video/BVMS-System-design-guide/ta-p/3916
@@ -200,7 +202,7 @@ BVMS Operator Client is an important component of the BVMS software which offers
 
 ![bvms-video-network](./_images/projects/bosch/bvms-video-network.jpg)
 
-# Project Endeavour
+## Project Endeavour
 
 <table style="width: 100%">
   <tr>
@@ -217,7 +219,7 @@ BVMS Operator Client is an important component of the BVMS software which offers
   </tr>
 </table>
 
-## My Achievements
+### My Achievements
 
 - Active part of the Global Software Architecture Group team for governance.
 - Definitions and creation of technical software designs.
@@ -226,13 +228,13 @@ BVMS Operator Client is an important component of the BVMS software which offers
 - Conducting workshops to introduce coding and design best practices.
 - Technology studies for new technical building blocks executed and successfully integrated into main stream development. 
 
-## Project Details
+### Project Details
 
 Endeavour is the next generation security management software (NGSMS) from Bosch Security Systems. It delivers complete convergence of the security/safety domains such as Video, Access, Intrusion, Fire, Tracking, Public address.
 
 Endeavour has a modularized, modern, open, service oriented and event driven software architecture based on industry standards, software platform vendor standards and modern state of the art software design structures and methods.
 
-# Building Integration System (BIS)
+## Building Integration System (BIS)
 
 <table style="width: 100%">
   <tr>
@@ -249,7 +251,7 @@ Endeavour has a modularized, modern, open, service oriented and event driven sof
   </tr>
 </table>
 
-## My Achievements
+### My Achievements
 
 - Integrated various Video-SDK versions from Bosch into BIS.
 - Integrated video transcoding into Video Engine.
@@ -257,7 +259,7 @@ Endeavour has a modularized, modern, open, service oriented and event driven sof
 - Implemented system monitor (CPU, Virtual memory etc.) to monitor performance of video system.
 - Projects executed using agile methodologies (Feature Driven Development).
 
-## Project Details
+### Project Details
 
 https://www.boschsecurity.com/xc/en/solutions/management-software/building-integration-system/
 https://resources-boschsecurity-cdn.azureedge.net/public/documents/BIS_Data_sheet_enUS_63055878283.pdf
