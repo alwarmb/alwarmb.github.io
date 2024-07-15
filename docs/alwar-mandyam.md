@@ -99,26 +99,20 @@ Achieved **First Class with Distinction** in each of the eight semesters of the 
   </table>
 </div>
 
-
 Bosch BT is an experienced system integrator helping buildings to be more secure, more efficient, and more comfortable.
 Bosch BT mainly serves the domains such as video surveillance, intrusion detection, access control, fire detection, conferencing systems, and building automation systems.
 
 ### Projects at Bosch
 
-[Projects at Bosch](projects-at-bosch.md)
+[Projects at Bosch](projects-at-bosch)
 -	[NEXOSPACE Foundation Services](projects-at-bosch#nexospace-foundations-services)
 -	[Fire System Analyzer (FSA)](projects-at-bosch#fire-system-analyzer-fsa)
--	[Remote Services - Next Gen](./projects-at-bosch.md#remote-services---next-gen)
--	[Bosch Energy Services](./projects-at-bosch#bosch-energy-services)
--	[Facility Management Assistant](./projects-at-bosch.md#facility-management-assistant)
-<!-- -	[Future of Conferencing Systems](./projects-at-bosch.md#future-of-conferencing-systems)
--	[Building Performance Analyzer and Optimizer](./projects-at-bosch.md#building-performance-analyzer-and-optimizer)
--	[Indoor Localization using Sensor Fusion](./projects-at-bosch.md#indoor-localization-using-sensor-fusion)
--	[Gas Cylinder Detection using Cognitive Services](./projects-at-bosch.md#gas-cylinder-detection-using-cognitive-services) -->
--	[Bosch Video Management System](./projects-at-bosch.md#bosch-video-management-system)
--	[Project Endeavour](./projects-at-bosch.md#project-endeavour)
--	[Building Integration System (BIS)](./projects-at-bosch.md#building-integration-system-bis)
-
+-	[Remote Services - Next Gen](projects-at-bosch#remote-services---next-gen)
+-	[Bosch Energy Services](projects-at-bosch#bosch-energy-services)
+-	[Facility Management Assistant](projects-at-bosch#facility-management-assistant)
+-	[Bosch Video Management System](projects-at-bosch#bosch-video-management-system)
+-	[Project Endeavour](projects-at-bosch#project-endeavour)
+-	[Building Integration System (BIS)](projects-at-bosch#building-integration-system-bis)
 
 ## Bosch Security Systems
 
@@ -145,6 +139,18 @@ Bosch BT mainly serves the domains such as video surveillance, intrusion detecti
 
 [Projects at Bosch](./projects-at-bosch.md)
 
+### Projects at Bosch
+
+[Projects at Bosch](projects-at-bosch)
+-	[NEXOSPACE Foundation Services](projects-at-bosch#nexospace-foundations-services)
+-	[Fire System Analyzer (FSA)](projects-at-bosch#fire-system-analyzer-fsa)
+-	[Remote Services - Next Gen](projects-at-bosch#remote-services---next-gen)
+-	[Bosch Energy Services](projects-at-bosch#bosch-energy-services)
+-	[Facility Management Assistant](projects-at-bosch#facility-management-assistant)
+-	[Bosch Video Management System](projects-at-bosch#bosch-video-management-system)
+-	[Project Endeavour](projects-at-bosch#project-endeavour)
+-	[Building Integration System (BIS)](projects-at-bosch#building-integration-system-bis)
+
 ## Tyco Fire and Security Pvt. Ltd.
 
 <div class="table-wrapper">
@@ -166,7 +172,13 @@ Bosch BT mainly serves the domains such as video surveillance, intrusion detecti
 
 Tyco is a leading provider of security products and services, fire protection and detection products and services, valves and controls, and other industrial products.
 
-[Projects at Tyco](./projects-at-tyco.md)
+### Projects at Tyco
+
+[Projects at Tyco](projects-at-tyco)
+-	[C•CURE 9000](projects-at-tyco#ccure-9000)
+-	[DMP Intrusion Panel & Galaxy Intrusion Panel (by Honeywell) Integration](projects-at-tyco#dmp-intrusion-panel--galaxy-intrusion-panel-by-honeywell-integration)
+-	[iStar Controller Simulator](projects-at-tyco#istar-controller-simulator)
+-	[Bosch Video Integration](projects-at-tyco#bosch-video-integration)
 
 ## Keane Inc.
 
@@ -189,7 +201,12 @@ Tyco is a leading provider of security products and services, fire protection an
 
 Keane is a U.S. software services company delivering strategy, application management and development through delivery centers in India
 
-[Projects at Keane](./projects-at-keane.md)
+### Projects at Keane
+
+[Projects at Keane](projects-at-keane)
+-	[Unisys – Client Satisfaction & Incident Survey (CSIS)](projects-at-keane#unisys--client-satisfaction--incident-survey-csis)
+-	[Merrill Lynch Security and Provisioning Framework](projects-at-keane#merrill-lynch-security-and-provisioning-framework)
+-	[Unisys InfoImage](projects-at-keane#unisys-infoimage)
 
 # TECHNOLOGY EXPERTISE
 
