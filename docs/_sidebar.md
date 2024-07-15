@@ -15,10 +15,10 @@
   - [@ Tyco Fire & Security](projects-at-tyco.md)
   - [@ Keane](projects-at-keane.md)
 
-  - **ROLES & RESPONSIBILITIES**
+- **ROLES & RESPONSIBILITIES**
   - [Roles & Reponsibilities](roles-and-responsibilities.md)
 
-  - **ACHIEVEMENTS**
+- **ACHIEVEMENTS**
   - [Achievements](achievements.md)
 
 - **CONTACT DETAILS**
