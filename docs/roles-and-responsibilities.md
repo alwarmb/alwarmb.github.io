@@ -1,31 +1,22 @@
-# BT Architecture Engineering Group (BTARCET)
-
-Lead member of the BTARCET which sets the architectural constraints, rules, concepts, and standards to be adhered to by the engineering and IT teams. My responsibilities included:
--	Definition of the BT 4.0 target architectures end-to-end.
--	Software, system, solution and services architecture designs and reviews.
--	Software and system architectures for the various domain specific contexts.
--	Service architectures based on the reference architecture.
--	Coaching & mentoring service for the business lines solution architects.
--	Industry architecture and technology scouting.
--	Industry alliance partnership ignitions and management.
--	Technology selections and proof of concept definitions, design, and realization.
--	Inner source culture driven architecture community exchanges and empowerment.
--	Defining standards and benchmark KPIs (Example. BT 4.0 readiness index: bronze, silver, gold).
--	Checkpoints / controlling / governance community sessions.
-
-# Solution Architect for NEXOSPACE Digital Services
+# Lead Solution Architect for NEXOSPACE Digital Services
 
 https://www.boschbuildingsolutions.com/xc/en/digital-services/
 
-NEXOSPACE, orchestrates the optimal interaction of the building's technical equipment in real time. Data from the various building service systems are brought together and analysed. In combination with a digital twin, this creates a completely new, holistic view of the building.
+NEXOSPACE orchestrates the optimal interaction of the building's technical equipment in real time. Data from the various building service systems are brought together and analysed. In combination with a digital twin, this creates a completely new, holistic view of the building.
+
+As a **Lead Solution Architect**, I create end-to-end solution architecture for the NEXOSPACE Foundation Services and the IoT Business Services built on top of the foundation services.
+By evaluating available technologies and understanding business needs, I help create solutions to optimize procedures and enhance efficiency. I analyze existing systems, gather data from various departments, and identify opportunities for improvement.
+
+As a Lead solution architect, I present proposals to stakeholders, recommending best practices for system design and implementation.
+I collaborate with operations engineers, solution architects, and developers to maximize automation of critical infrastructure components. I help facilitate all scrum cadences, ensuring effective project management.
 
 ![nexospace-solution-experience](./_images/projects/bosch/nexospace-solution-experience.jpg)
 
 ![nexospace-solution-architecture](./_images/projects/bosch/nexospace-solution-architecture.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vow4mhO_pEc" title="Light + Building 2022: NEXOSPACE Launch Event - Digitale Services für das Gebäudemanagement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1430" height="804" src="https://www.youtube.com/embed/Vow4mhO_pEc" title="Light + Building 2022: NEXOSPACE Launch Event - Digitale Services für das Gebäudemanagement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZ0wqachONQ" title="Launch 'Digital Service Suite' NEXOSPACE: with Andreas Mauer - CTO Bosch Building Technologies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1430" height="804" src="https://www.youtube.com/embed/hZ0wqachONQ" title="Launch 'Digital Service Suite' NEXOSPACE: with Andreas Mauer - CTO Bosch Building Technologies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Nexospace Foundation Services
 
@@ -42,6 +33,21 @@ Foundation Services include the following Software-as-a-Service (SaaS) capabilit
 - Building Map Services
 - API Federation Services
 - Ontology Management Services
+
+# BT Architecture Engineering Group (BTARCET)
+
+Lead member of the BTARCET which sets the architectural constraints, rules, concepts, and standards to be adhered to by the engineering and IT teams. My responsibilities included:
+-	Definition of the BT 4.0 target architectures end-to-end.
+-	Software, system, solution and services architecture designs and reviews.
+-	Software and system architectures for the various domain specific contexts.
+-	Service architectures based on the reference architecture.
+-	Coaching & mentoring service for the business lines solution architects.
+-	Industry architecture and technology scouting.
+-	Industry alliance partnership ignitions and management.
+-	Technology selections and proof of concept definitions, design, and realization.
+-	Inner source culture driven architecture community exchanges and empowerment.
+-	Defining standards and benchmark KPIs (Example. BT 4.0 readiness index: bronze, silver, gold).
+-	Checkpoints / controlling / governance community sessions.
 
 # Alliance Partner for Bosch Corporate Research
 

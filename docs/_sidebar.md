@@ -34,8 +34,8 @@
 
 - **ROLES & RESPONSIBILITIES**
   - [Roles & Reponsibilities](roles-and-responsibilities)
-    - [BT Architecture Engineering Group (BTARCET)](roles-and-responsibilities#bt-architecture-engineering-group-btarcet)
     - [Solution Architect for NEXOSPACE Digital Services](roles-and-responsibilities#solution-architect-for-nexospace-digital-services)
+    - [BT Architecture Engineering Group (BTARCET)](roles-and-responsibilities#bt-architecture-engineering-group-btarcet)
     - [Alliance Partner for Bosch Corporate Research](roles-and-responsibilities#alliance-partner-for-bosch-corporate-research)
     - [Co-host of DevOps Service Hub (DOSH) Conference](roles-and-responsibilities#co-host-of-devops-service-hub-dosh-conference)
     - [Hack Coach at Bosch Connected Experience (BCX)](roles-and-responsibilities#hack-coach-at-bosch-connected-experience-bcx)
