@@ -7,8 +7,7 @@ NEXOSPACE orchestrates the optimal interaction of the building's technical equip
 As a **Lead Solution Architect**, I create end-to-end solution architecture for the NEXOSPACE Foundation Services and the IoT Business Services built on top of the foundation services.
 By evaluating available technologies and understanding business needs, I help create solutions to optimize procedures and enhance efficiency. I analyze existing systems, gather data from various departments, and identify opportunities for improvement.
 
-As a Lead solution architect, I present proposals to stakeholders, recommending best practices for system design and implementation.
-I collaborate with operations engineers, solution architects, and developers to maximize automation of critical infrastructure components. I help facilitate all scrum cadences, ensuring effective project management.
+As a Lead solution architect, I present proposals to stakeholders, recommending best practices for system design and implementation. I collaborate with operations engineers, solution architects, and developers to maximize automation of critical infrastructure components. I help facilitate all scrum cadences, ensuring effective project management.
 
 ![nexospace-solution-experience](./_images/projects/bosch/nexospace-solution-experience.jpg)
 

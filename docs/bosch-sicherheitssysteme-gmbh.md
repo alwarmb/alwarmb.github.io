@@ -1,4 +1,4 @@
-# Bosch Building Technologies
+# Bosch Sicherheitssysteme GmbH (Bosch Building Technologies)
 
 <div class="table-wrapper">
   <table>
